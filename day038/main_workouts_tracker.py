@@ -41,7 +41,7 @@ def get_exercises():
 
     query = input('Tell me which exercise you did today: ')
 
-    params = {
+    body = {
         'query': query,
         'gender': GENDER,
         'weight_kg': WEIGHT_KG,
@@ -49,7 +49,7 @@ def get_exercises():
         'age': AGE
     }
 
-    response = requests.post(EXERCISE_ENDPOINT, params, headers=headers)
+    response = requests.post(EXERCISE_ENDPOINT, body, headers=headers)
     response.raise_for_status()
     return response.json()['exercises']
 
@@ -79,7 +79,7 @@ def add_rows(rows):
     }
 
     for row in rows:
-        params = {
+        body = {
             'workout': {
                 'date': date,
                 'time': time,
@@ -88,7 +88,7 @@ def add_rows(rows):
                 'calories': row['nf_calories']
             }
         }
-        response = requests.post(SHEETY_WORKOUTS_TRACKER_ENDPOINT, json=params, headers=headers)
+        response = requests.post(SHEETY_WORKOUTS_TRACKER_ENDPOINT, json=body, headers=headers)
         # #Basic Authentication
         # sheet_response = requests.post(
         #     sheet_endpoint,

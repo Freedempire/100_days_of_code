@@ -87,14 +87,14 @@ def create_graph(name, unit, type='int', color='shibafu', id=None):
     headers = {
         'X-USER-TOKEN': TOKEN
     }
-    params = {
+    body = {
         'id': id,
         'name': name,
         'unit': unit,
         'type': type,
         'color': color
     }
-    response = requests.post(urljoin(BASE_URL, CREATE_USER, USERNAME, CREATE_GRAPH), json=params, headers=headers)
+    response = requests.post(urljoin(BASE_URL, CREATE_USER, USERNAME, CREATE_GRAPH), json=body, headers=headers)
     response.raise_for_status()
     print(response.json())
     if response.json()['isSuccess']:
@@ -137,7 +137,7 @@ def post_pixel(name, quantity, id=None, date=get_today()):
     headers = {
         'X-USER-TOKEN': TOKEN
     }
-    params = {
+    body = {
         'quantity': quantity,
         'date': date
     }
@@ -152,11 +152,11 @@ def post_pixel(name, quantity, id=None, date=get_today()):
         for graph in graphs:
             if id is None and graph['name'] == name or graph['id'] == id:
                 graph_found = True
-                response = requests.post(urljoin(BASE_URL, CREATE_USER, USERNAME, CREATE_GRAPH, graph['id']), json=params, headers=headers)
+                response = requests.post(urljoin(BASE_URL, CREATE_USER, USERNAME, CREATE_GRAPH, graph['id']), json=body, headers=headers)
                 print(response.json())
                 if not response.json()['isSuccess']:
                     while response.json().get('isRejected'):
-                        response = requests.post(urljoin(BASE_URL, CREATE_USER, USERNAME, CREATE_GRAPH, graph['id']), json=params, headers=headers)
+                        response = requests.post(urljoin(BASE_URL, CREATE_USER, USERNAME, CREATE_GRAPH, graph['id']), json=body, headers=headers)
                         print(response.json())
                 print(f'Pixel of graph \"{graph["name"]}\" posted for date {date}.')
                 break
@@ -259,6 +259,6 @@ PERSON_URL = 'https://pixe.la/@freedempire'
 # create_graph('Programming hourss', 'hourss')
 # delete_graph('rrgrwbsyitb2grdx')
 
-# post_pixel('Programming hours', '3')
-# post_pixel('English words', '10')
-# post_pixel('Reading pages', '3')
+post_pixel('Programming hours', '4')
+post_pixel('English words', '10')
+post_pixel('Reading pages', '15')
