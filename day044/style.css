@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.pic {
+    margin: 60px auto 0;
+    border: 5px solid white;
+    width: 700px;
+    height: 380px;
+}
+
+.title {
+    font: 60px Courier bolder;
+    margin: 30px 0 20px;
+}
+
+.subtitle {
+    font: 22px Courier bold;
+    margin: 0;
+}

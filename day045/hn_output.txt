@@ -1,0 +1,152 @@
+[
+    {
+        "title": "I Am Leaving",
+        "link": "https://briefs.video/videos/i-am-leaving/",
+        "score": "287 points"
+    },
+    {
+        "title": "Vale's First Prototype for Immutable Region Borrowing",
+        "link": "https://verdagon.dev/blog/first-regions-prototype",
+        "score": "243 points"
+    },
+    {
+        "title": "Kelly Rowland couldn't have used the =HYPERLINK() function to message Nelly",
+        "link": "https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html",
+        "score": "721 points"
+    },
+    {
+        "title": "RPCS3 \u2013 The Open Source Playstation 3 Emulator",
+        "link": "https://rpcs3.net/",
+        "score": "130 points"
+    },
+    {
+        "title": "Chiplet ASIC supercomputers for LLMs like GPT-4",
+        "link": "https://arxiv.org/abs/2307.02666",
+        "score": "77 points"
+    },
+    {
+        "title": "TimeMaps",
+        "link": "https://vincentmeertens.com/project/timemaps/",
+        "score": "9 points"
+    },
+    {
+        "title": "The Free Movie",
+        "link": "https://thefreemovie.buzz/",
+        "score": "340 points"
+    },
+    {
+        "title": "Introduction to vector similarity search (2022)",
+        "link": "https://zilliz.com/blog/vector-similarity-search",
+        "score": "117 points"
+    },
+    {
+        "title": "Hardening Emulated Devices in OpenBSD's Vmd(8) Hypervisor [pdf]",
+        "link": "https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf",
+        "score": "44 points"
+    },
+    {
+        "title": "Breaking java.lang.String",
+        "link": "https://wouter.coekaerts.be/2023/breaking-string",
+        "score": "148 points"
+    },
+    {
+        "title": "Proof you can do hard things",
+        "link": "https://blog.nateliason.com/p/proof-you-can-do-hard-things",
+        "score": "326 points"
+    },
+    {
+        "title": "Counting Sheep on the Chajnantor Plateau",
+        "link": "https://eso.org/public/images/potw2328a/",
+        "score": "11 points"
+    },
+    {
+        "title": "How the design of Disney parks affects our perspective (2020)",
+        "link": "https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/",
+        "score": "85 points"
+    },
+    {
+        "title": "Elo for VC \u2013 Founder's Choice",
+        "link": "https://www.founderschoicevc.com/",
+        "score": "83 points"
+    },
+    {
+        "title": "The magic of dependency resolution",
+        "link": "https://ochagavia.nl/blog/the-magic-of-dependency-resolution/",
+        "score": "46 points"
+    },
+    {
+        "title": "Echoes of Eco in His Library",
+        "link": "https://www.the-tls.co.uk/articles/umberto-eco-a-library-of-the-world-film-review-irina-dumitrescu/",
+        "score": "14 points"
+    },
+    {
+        "title": "Growing Rat Neurons to Play Video Games [video]",
+        "link": "https://www.youtube.com/watch?v=bEXefdbQDjw",
+        "score": "81 points"
+    },
+    {
+        "title": "Show HN: Van, truck or car camp for $0 a night",
+        "link": "https://www.landcamp.org/",
+        "score": "322 points"
+    },
+    {
+        "title": "Newpipe.net removed from Google search results due to DMCA take down request",
+        "link": "https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/",
+        "score": "542 points"
+    },
+    {
+        "title": "Grave of a man who never was (2015)",
+        "link": "https://www.atlasobscura.com/places/grave-of-the-man-who-never-was",
+        "score": "42 points"
+    },
+    {
+        "title": "Darwin: A framework for evolving decentralized web apps",
+        "link": "https://evolutionary.arweave.dev/",
+        "score": "69 points"
+    },
+    {
+        "title": "Threads: The BBC drama which affected a generation of viewers",
+        "link": "https://www.bbc.com/news/uk-england-south-yorkshire-66122775",
+        "score": "23 points"
+    },
+    {
+        "title": "Birds make nests out of anti-bird pins",
+        "link": "https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins",
+        "score": "139 points"
+    },
+    {
+        "title": "Space After Periods (1993)",
+        "link": "http://1997.webhistory.org/www.lists/www-talk.1993q3/",
+        "score": "137 points"
+    },
+    {
+        "title": "Displayport: A Better Video Interface",
+        "link": "https://hackaday.com/2023/07/11/displayport-a-better-video-interface/",
+        "score": "685 points"
+    },
+    {
+        "title": "Commit Mono \u2013 Neutral programming typeface",
+        "link": "https://commitmono.com/",
+        "score": "48 points"
+    },
+    {
+        "title": "Storing Data in Control Flow",
+        "link": "https://research.swtch.com/pcdata",
+        "score": "103 points"
+    },
+    {
+        "title": "Bubblewrap \u2013 Low-level unprivileged sandboxing tool used by Flatpak",
+        "link": "https://github.com/containers/bubblewrap",
+        "score": "79 points"
+    },
+    {
+        "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
+        "link": "https://jobs.lever.co/buildzoom",
+        "score": ""
+    },
+    {
+        "title": "Geddit: Open-source, Reddit client for Android without using API",
+        "link": "https://github.com/kaangiray26/geddit-app",
+        "score": "68 points"
+    }
+]

@@ -1,0 +1,604 @@
+{
+    "billboard hot 100 on Week of January 2, 2021": [
+        {
+            "rank": "1",
+            "track": "All I Want For Christmas Is You",
+            "artist": "Mariah Carey",
+            "uri": "spotify:track:0bYg9bo50gSsH3LtXe2SQn"
+        },
+        {
+            "rank": "2",
+            "track": "Rockin' Around The Christmas Tree",
+            "artist": "Brenda Lee",
+            "uri": "spotify:track:2EjXfH91m7f8HiJN1yQg97"
+        },
+        {
+            "rank": "3",
+            "track": "Jingle Bell Rock",
+            "artist": "Bobby Helms",
+            "uri": "spotify:track:7vQbuQcyTflfCIOu3Uzzya"
+        },
+        {
+            "rank": "4",
+            "track": "A Holly Jolly Christmas",
+            "artist": "Burl Ives",
+            "uri": "spotify:track:77khP2fIVhSW23NwxrRluh"
+        },
+        {
+            "rank": "5",
+            "track": "It's The Most Wonderful Time Of The Year",
+            "artist": "Andy Williams",
+            "uri": "spotify:track:5hslUAKq9I9CG2bAulFkHN"
+        },
+        {
+            "rank": "6",
+            "track": "Feliz Navidad",
+            "artist": "Jose Feliciano",
+            "uri": "spotify:track:7taXf5odg9xCAZERYfyOkS"
+        },
+        {
+            "rank": "7",
+            "track": "Mood",
+            "artist": "24kGoldn Featuring iann dior",
+            "uri": "N/A"
+        },
+        {
+            "rank": "8",
+            "track": "Let It Snow, Let It Snow, Let It Snow",
+            "artist": "Dean Martin",
+            "uri": "spotify:track:2uFaJJtFpPDc5Pa95XzTvg"
+        },
+        {
+            "rank": "9",
+            "track": "Last Christmas",
+            "artist": "Wham!",
+            "uri": "spotify:track:2FRnf9qhLbvw8fu4IBXx78"
+        },
+        {
+            "rank": "10",
+            "track": "Run Rudolph Run",
+            "artist": "Chuck Berry",
+            "uri": "spotify:track:6DlaMoYGbWHT1G5ZwuQo3n"
+        },
+        {
+            "rank": "11",
+            "track": "The Christmas Song (Merry Christmas To You)",
+            "artist": "Nat King Cole",
+            "uri": "spotify:track:6mewaz5f55J6qk24orCOKv"
+        },
+        {
+            "rank": "12",
+            "track": "Underneath The Tree",
+            "artist": "Kelly Clarkson",
+            "uri": "spotify:track:3nAp4IvdMPPWEH9uuXFFV5"
+        },
+        {
+            "rank": "13",
+            "track": "Sleigh Ride",
+            "artist": "The Ronettes",
+            "uri": "spotify:track:5ASM6Qjiav2xPe7gRkQMsQ"
+        },
+        {
+            "rank": "14",
+            "track": "Positions",
+            "artist": "Ariana Grande",
+            "uri": "spotify:track:35mvY5S1H3J2QZyna3TFe0"
+        },
+        {
+            "rank": "15",
+            "track": "It's Beginning To Look A Lot Like Christmas",
+            "artist": "Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra",
+            "uri": "spotify:track:2pXpURmn6zC5ZYDMms6fwa"
+        },
+        {
+            "rank": "16",
+            "track": "Rudolph The Red-Nosed Reindeer",
+            "artist": "Gene Autry",
+            "uri": "spotify:track:1dtIaSlyrLI04sqYa8nLyN"
+        },
+        {
+            "rank": "17",
+            "track": "Santa Tell Me",
+            "artist": "Ariana Grande",
+            "uri": "spotify:track:0lizgQ7Qw35od7CYaoMBZb"
+        },
+        {
+            "rank": "18",
+            "track": "Happy Holiday / The Holiday Season",
+            "artist": "Andy Williams",
+            "uri": "spotify:track:3sDdyBHQ60Cs1opmIyRvhp"
+        },
+        {
+            "rank": "19",
+            "track": "Christmas (Baby Please Come Home)",
+            "artist": "Darlene Love",
+            "uri": "spotify:track:47ohYW8e7dxCYn9qbUMBCI"
+        },
+        {
+            "rank": "20",
+            "track": "White Christmas",
+            "artist": "Bing Crosby",
+            "uri": "spotify:track:4so0Wek9Ig1p6CRCHuINwW"
+        },
+        {
+            "rank": "21",
+            "track": "Holy",
+            "artist": "Justin Bieber Featuring Chance The Rapper",
+            "uri": "N/A"
+        },
+        {
+            "rank": "22",
+            "track": "(There's No Place Like) Home For The Holidays (1959)",
+            "artist": "Perry Como With Mitchell Ayers And His Orchestra",
+            "uri": "N/A"
+        },
+        {
+            "rank": "23",
+            "track": "It's Beginning To Look A Lot Like Christmas",
+            "artist": "Michael Buble",
+            "uri": "spotify:track:5vdGpbRE4Yz2TuqP0k2Cfj"
+        },
+        {
+            "rank": "24",
+            "track": "Go Crazy",
+            "artist": "Chris Brown & Young Thug",
+            "uri": "spotify:track:1IIKrJVP1C9N7iPtG6eOsK"
+        },
+        {
+            "rank": "25",
+            "track": "Laugh Now Cry Later",
+            "artist": "Drake Featuring Lil Durk",
+            "uri": "N/A"
+        },
+        {
+            "rank": "26",
+            "track": "Here Comes Santa Claus (Right Down Santa Claus Lane)",
+            "artist": "Gene Autry",
+            "uri": "spotify:track:25leEEaz1gIpp7o21Fqyjo"
+        },
+        {
+            "rank": "27",
+            "track": "Levitating",
+            "artist": "Dua Lipa",
+            "uri": "spotify:track:5nujrmhLynf4yMoMtj8AQF"
+        },
+        {
+            "rank": "28",
+            "track": "Wonderful Christmastime",
+            "artist": "Paul McCartney",
+            "uri": "spotify:track:1SV1fxF65n9NhRHp3KlBuu"
+        },
+        {
+            "rank": "29",
+            "track": "For The Night",
+            "artist": "Pop Smoke Featuring Lil Baby & DaBaby",
+            "uri": "N/A"
+        },
+        {
+            "rank": "30",
+            "track": "I Hope",
+            "artist": "Gabby Barrett Featuring Charlie Puth",
+            "uri": "N/A"
+        },
+        {
+            "rank": "31",
+            "track": "Lemonade",
+            "artist": "Internet Money & Gunna Featuring Don Toliver & NAV",
+            "uri": "N/A"
+        },
+        {
+            "rank": "32",
+            "track": "You're A Mean One, Mr. Grinch",
+            "artist": "Thurl Ravenscroft",
+            "uri": "N/A"
+        },
+        {
+            "rank": "33",
+            "track": "Blue Christmas",
+            "artist": "Elvis Presley",
+            "uri": "spotify:track:3QiAAp20rPC3dcAtKtMaqQ"
+        },
+        {
+            "rank": "34",
+            "track": "Dakiti",
+            "artist": "Bad Bunny & Jhay Cortez",
+            "uri": "N/A"
+        },
+        {
+            "rank": "35",
+            "track": "Body",
+            "artist": "Megan Thee Stallion",
+            "uri": "spotify:track:0A1hoCfMLkiAgvhWkkucJa"
+        },
+        {
+            "rank": "36",
+            "track": "Mele Kalikimaka (Merry Christmas)",
+            "artist": "Bing Crosby & The Andrews Sisters",
+            "uri": "spotify:track:04vLj9QUXoKdRlsp3gkURo"
+        },
+        {
+            "rank": "37",
+            "track": "Bang!",
+            "artist": "AJR",
+            "uri": "spotify:track:1lc8RlDNQfet5oFrVjM2xk"
+        },
+        {
+            "rank": "38",
+            "track": "Willow",
+            "artist": "Taylor Swift",
+            "uri": "spotify:track:0lx2cLdOt3piJbcaXIV74f"
+        },
+        {
+            "rank": "39",
+            "track": "This Christmas",
+            "artist": "Donny Hathaway",
+            "uri": "spotify:track:38xhBO2AKrJnjdjVnhJES6"
+        },
+        {
+            "rank": "40",
+            "track": "34+35",
+            "artist": "Ariana Grande Feat. Doja Cat & Megan Thee Stallion",
+            "uri": "N/A"
+        },
+        {
+            "rank": "41",
+            "track": "Kings & Queens",
+            "artist": "Ava Max",
+            "uri": "spotify:track:7a53HqqArd4b9NF4XAmlbI"
+        },
+        {
+            "rank": "42",
+            "track": "Therefore I Am",
+            "artist": "Billie Eilish",
+            "uri": "spotify:track:54bFM56PmE4YLRnqpW6Tha"
+        },
+        {
+            "rank": "43",
+            "track": "Deck The Halls",
+            "artist": "Nat King Cole",
+            "uri": "spotify:track:7IVbtWM3WUMRl0C97myQH0"
+        },
+        {
+            "rank": "44",
+            "track": "Dynamite",
+            "artist": "BTS",
+            "uri": "spotify:track:5QDLhrAOJJdNAmCTJ8xMyW"
+        },
+        {
+            "rank": "45",
+            "track": "Please Come Home For Christmas",
+            "artist": "Eagles",
+            "uri": "spotify:track:3QIoEi8Enr9uHffwInGIsC"
+        },
+        {
+            "rank": "46",
+            "track": "Santa Claus Is Comin' To Town",
+            "artist": "Jackson 5",
+            "uri": "spotify:track:2a4e3dUvbA7jLQAGDqMCFP"
+        },
+        {
+            "rank": "47",
+            "track": "Little Saint Nick",
+            "artist": "The Beach Boys",
+            "uri": "spotify:track:3UmPxlE61Y0nfvP5WEPMTT"
+        },
+        {
+            "rank": "48",
+            "track": "Take Me Home For Christmas",
+            "artist": "Dan + Shay",
+            "uri": "spotify:track:206GuaMn52d2zVhuy6eTad"
+        },
+        {
+            "rank": "49",
+            "track": "Have Yourself A Merry Little Christmas",
+            "artist": "Michael Buble",
+            "uri": "spotify:track:086AZ9bBNRf3jLZGkpHYYL"
+        },
+        {
+            "rank": "50",
+            "track": "I'll Be Home For Christmas",
+            "artist": "Bing Crosby",
+            "uri": "spotify:track:5ZrKA1WzfkiVsfTzR2CHV4"
+        },
+        {
+            "rank": "51",
+            "track": "What You Know Bout Love",
+            "artist": "Pop Smoke",
+            "uri": "spotify:track:1tkg4EHVoqnhR6iFEXb60y"
+        },
+        {
+            "rank": "52",
+            "track": "Whoopty",
+            "artist": "CJ",
+            "uri": "spotify:track:5vGLcdRuSbUhD8ScwsGSdA"
+        },
+        {
+            "rank": "53",
+            "track": "Lonely",
+            "artist": "Justin Bieber & benny blanco",
+            "uri": "spotify:track:4fKiuIavbsoTRZ6R7xuAyT"
+        },
+        {
+            "rank": "54",
+            "track": "Hallelujah",
+            "artist": "Carrie Underwood & John Legend",
+            "uri": "N/A"
+        },
+        {
+            "rank": "55",
+            "track": "WAP",
+            "artist": "Cardi B Featuring Megan Thee Stallion",
+            "uri": "N/A"
+        },
+        {
+            "rank": "56",
+            "track": "Holiday",
+            "artist": "Lil Nas X",
+            "uri": "spotify:track:6zFMeegAMYQo0mt8rXtrli"
+        },
+        {
+            "rank": "57",
+            "track": "Better Together",
+            "artist": "Luke Combs",
+            "uri": "spotify:track:6gdLyYNuhWBzqwlOFSsXC7"
+        },
+        {
+            "rank": "58",
+            "track": "On Me",
+            "artist": "Lil Baby",
+            "uri": "spotify:track:4Iedi94TIaB2GGb1nMB68v"
+        },
+        {
+            "rank": "59",
+            "track": "Afterglow",
+            "artist": "Ed Sheeran",
+            "uri": "spotify:track:0E4Y1XIbs8GrAT1YqVy6dq"
+        },
+        {
+            "rank": "60",
+            "track": "Gnat",
+            "artist": "Eminem",
+            "uri": "spotify:track:6cS9PmLky2NhLOhpIsUlow"
+        },
+        {
+            "rank": "61",
+            "track": "Rockin' Around The Christmas Tree",
+            "artist": "Justin Bieber",
+            "uri": "spotify:track:19pDGIQMBBBzteNjmzzjDN"
+        },
+        {
+            "rank": "62",
+            "track": "Favorite Time Of Year",
+            "artist": "Carrie Underwood",
+            "uri": "spotify:track:2aq7ZO1is1czoQAh076QFU"
+        },
+        {
+            "rank": "63",
+            "track": "Hawai",
+            "artist": "Maluma & The Weeknd",
+            "uri": "N/A"
+        },
+        {
+            "rank": "64",
+            "track": "Monster",
+            "artist": "Shawn Mendes & Justin Bieber",
+            "uri": "spotify:track:2Z8yfpFX0ZMavHkcIeHiO1"
+        },
+        {
+            "rank": "65",
+            "track": "Diamonds",
+            "artist": "Sam Smith",
+            "uri": "spotify:track:5hvwx5i67IwnCkjl9VHkNv"
+        },
+        {
+            "rank": "66",
+            "track": "Starting Over",
+            "artist": "Chris Stapleton",
+            "uri": "spotify:track:3K07bGe8iljQ3mOKArHLDo"
+        },
+        {
+            "rank": "67",
+            "track": "Cry Baby",
+            "artist": "Megan Thee Stallion Featuring DaBaby",
+            "uri": "N/A"
+        },
+        {
+            "rank": "68",
+            "track": "You Broke Me First.",
+            "artist": "Tate McRae",
+            "uri": "spotify:track:45bE4HXI0AwGZXfZtMp8JR"
+        },
+        {
+            "rank": "69",
+            "track": "My Ex's Best Friend",
+            "artist": "Machine Gun Kelly X blackbear",
+            "uri": "N/A"
+        },
+        {
+            "rank": "70",
+            "track": "Without You",
+            "artist": "The Kid LAROI",
+            "uri": "spotify:track:1KMkcUvF7m3SDChDOa7i5L"
+        },
+        {
+            "rank": "71",
+            "track": "Big, Big Plans",
+            "artist": "Chris Lane",
+            "uri": "spotify:track:7yNJCsUH3tXlpQiHSsAc5l"
+        },
+        {
+            "rank": "72",
+            "track": "Mr. Right Now",
+            "artist": "21 Savage & Metro Boomin Featuring Drake",
+            "uri": "N/A"
+        },
+        {
+            "rank": "73",
+            "track": "Forever After All",
+            "artist": "Luke Combs",
+            "uri": "spotify:track:6IBcOGPsniK3Pso1wHIhew"
+        },
+        {
+            "rank": "74",
+            "track": "Throat Baby (Go Baby)",
+            "artist": "BRS Kash",
+            "uri": "spotify:track:15C4TnrrVdym7UykxQIOTZ"
+        },
+        {
+            "rank": "75",
+            "track": "Under The Mistletoe",
+            "artist": "Kelly Clarkson & Brett Eldredge",
+            "uri": "N/A"
+        },
+        {
+            "rank": "76",
+            "track": "Tyler Herro",
+            "artist": "Jack Harlow",
+            "uri": "spotify:track:3w1WjD2zJqjBjDz5fwqQPJ"
+        },
+        {
+            "rank": "77",
+            "track": "Champagne Problems",
+            "artist": "Taylor Swift",
+            "uri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
+        },
+        {
+            "rank": "78",
+            "track": "The First Noel",
+            "artist": "Gabby Barrett",
+            "uri": "spotify:track:5jOW2YrcoTTJZqTo0PNbnz"
+        },
+        {
+            "rank": "79",
+            "track": "Love You Like I Used To",
+            "artist": "Russell Dickerson",
+            "uri": "spotify:track:5oVEXLYT47mTPnHwTGHciX"
+        },
+        {
+            "rank": "80",
+            "track": "Champagne Night",
+            "artist": "Lady A",
+            "uri": "spotify:track:48F2xnWq3LuzYWML327Z2r"
+        },
+        {
+            "rank": "81",
+            "track": "Prisoner",
+            "artist": "Miley Cyrus Featuring Dua Lipa",
+            "uri": "N/A"
+        },
+        {
+            "rank": "82",
+            "track": "Good Time",
+            "artist": "Niko Moon",
+            "uri": "spotify:track:2S8UMuLJ0z8agFgFGJ6Ztt"
+        },
+        {
+            "rank": "83",
+            "track": "7 Summers",
+            "artist": "Morgan Wallen",
+            "uri": "spotify:track:4obHzpwGrjoTuZh2DItEMZ"
+        },
+        {
+            "rank": "84",
+            "track": "Adderall (Corvette Corvette)",
+            "artist": "Popp Hunna",
+            "uri": "spotify:track:3aAmQOxRPeKDL0HMWFA5qn"
+        },
+        {
+            "rank": "85",
+            "track": "You're Mines Still",
+            "artist": "Yung Bleu Featuring Drake",
+            "uri": "N/A"
+        },
+        {
+            "rank": "86",
+            "track": "Tequila Shots",
+            "artist": "Kid Cudi",
+            "uri": "spotify:track:30KctD1WsHKTIYczXjip5a"
+        },
+        {
+            "rank": "87",
+            "track": "Back To The Streets",
+            "artist": "Saweetie Featuring Jhene Aiko",
+            "uri": "N/A"
+        },
+        {
+            "rank": "88",
+            "track": "Bichota",
+            "artist": "Karol G",
+            "uri": "spotify:track:0IZvwQHvAq34fqJltPa3I3"
+        },
+        {
+            "rank": "89",
+            "track": "Way Out",
+            "artist": "Jack Harlow Featuring Big Sean",
+            "uri": "N/A"
+        },
+        {
+            "rank": "90",
+            "track": "Hit Different",
+            "artist": "SZA Featuring Ty Dolla $ign",
+            "uri": "N/A"
+        },
+        {
+            "rank": "91",
+            "track": "'Tis The Damn Season",
+            "artist": "Taylor Swift",
+            "uri": "spotify:track:7dW84mWkdWE5a6lFWxJCBG"
+        },
+        {
+            "rank": "92",
+            "track": "Damage",
+            "artist": "H.E.R.",
+            "uri": "spotify:track:0KS2h61pHQ4WmOwruD7uxD"
+        },
+        {
+            "rank": "93",
+            "track": "Backdoor",
+            "artist": "Lil Durk",
+            "uri": "spotify:track:3xUoEjDFhHCWlIeLRoTabt"
+        },
+        {
+            "rank": "94",
+            "track": "Silent Night",
+            "artist": "Carrie Underwood",
+            "uri": "spotify:track:3z63V6OraICzWEyTCcbezn"
+        },
+        {
+            "rank": "95",
+            "track": "Golden",
+            "artist": "Harry Styles",
+            "uri": "spotify:track:45S5WTQEGOB1VHr1Q4FuPl"
+        },
+        {
+            "rank": "96",
+            "track": "Hole In The Bottle",
+            "artist": "Kelsea Ballerini",
+            "uri": "spotify:track:2yySWxfeRN2QRZnFMnYMQl"
+        },
+        {
+            "rank": "97",
+            "track": "No Body, No Crime",
+            "artist": "Taylor Swift Featuring HAIM",
+            "uri": "N/A"
+        },
+        {
+            "rank": "98",
+            "track": "Moonwalking In Calabasas",
+            "artist": "DDG",
+            "uri": "spotify:track:73xjJ1TIE6WP3HNKczQE4F"
+        },
+        {
+            "rank": "99",
+            "track": "Took Her To The O",
+            "artist": "King Von",
+            "uri": "spotify:track:7fEoXCZTZFosUFvFQg1BmW"
+        },
+        {
+            "rank": "100",
+            "track": "Put Your Records On",
+            "artist": "Ritt Momney",
+            "uri": "spotify:track:6AGOKlMZWLCaEJGnaROtF9"
+        }
+    ]
+}
