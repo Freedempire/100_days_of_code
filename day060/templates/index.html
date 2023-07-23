@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Form</title>
+</head>
+<body>
+  <h1>Working</h1>
+  <form action="{{ url_for('login') }}" method="post">
+    <label for="name">Name:
+      <input type="text" id="name" name="name" placeholder="name">
+    </label>
+    <label for="password">Password:
+      <input type="password" id="password" name="password" placeholder="password">
+    </label>
+    <button type="submit">OK</button>
+  </form>
+
+</body>
+</html>
