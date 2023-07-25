@@ -32,10 +32,11 @@ def urljoin(*args):
         return args[0]
     url = ''
     for index, arg in enumerate(args):
-        if index == 0:
-            url += arg if arg.endswith('/') else arg + '/'
-        else:
-            url += arg.lstrip('/') if arg.startswith('/') else arg
+        if not arg.startswith('/') and index != 0:
+            arg = '/' + arg
+        if arg.endswith('/') and index < len(args) - 1:
+            arg = arg.rstrip('/')
+        url += arg
     return url
 
 
@@ -150,3 +151,11 @@ def search_flights(destination_city_codes):
 
 with open('result.json', 'w') as f:
     json.dump(search_flights(get_destination_city_codes(get_from_sheety())), f, indent=4)
+
+
+if __name__ == '__main__':
+    print(urljoin('/aa/', '/bb/', '/cc/'))
+    print(urljoin('/aa/', '/bb/', 'cc/'))
+    print(urljoin('aa/', '/bb', '/cc/'))
+    print(urljoin('aa', 'bb', 'cc/'))
+    print(urljoin('aa/', 'bb/', 'cc/'))

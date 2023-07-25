@@ -1,10 +1,10 @@
 {
-    "search_id": "34d68197-2c88-6d1f-0601-b7b513364eb1",
+    "search_id": "24f7c483-7dc0-f446-0755-258451e799d8",
     "currency": "EUR",
     "fx_rate": 1,
     "data": [
         {
-            "id": "032d00424c8f0000812042dc_0|0042032d4c9d000032635e9a_0",
+            "id": "032d00424c9d000068c73fce_0|0042032d4ca4000030f32c5f_0",
             "flyFrom": "STN",
             "flyTo": "BER",
             "cityFrom": "London",
@@ -19,26 +19,26 @@
                 "code": "DE",
                 "name": "Germany"
             },
-            "nightsInDest": 14,
-            "quality": 106.99987,
+            "nightsInDest": 7,
+            "quality": 101.99987,
             "distance": 907.07,
             "duration": {
                 "departure": 6000,
                 "return": 6600,
                 "total": 12600
             },
-            "price": 55,
+            "price": 50,
             "conversion": {
-                "EUR": 55
+                "EUR": 50
             },
             "fare": {
-                "adults": 55,
-                "children": 55,
-                "infants": 55
+                "adults": 50,
+                "children": 50,
+                "infants": 50
             },
             "bags_price": {
                 "1": 83.28,
-                "2": 166.575
+                "2": 166.59
             },
             "baglimit": {
                 "hand_height": 40,
@@ -63,8 +63,8 @@
             ],
             "route": [
                 {
-                    "id": "032d00424c8f0000812042dc_0",
-                    "combination_id": "032d00424c8f0000812042dc",
+                    "id": "032d00424c9d000068c73fce_0",
+                    "combination_id": "032d00424c9d000068c73fce",
                     "flyFrom": "STN",
                     "flyTo": "BER",
                     "cityFrom": "London",
@@ -85,14 +85,14 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-08-30T08:55:00.000Z",
-                    "utc_arrival": "2023-08-30T06:55:00.000Z",
-                    "local_departure": "2023-08-30T06:15:00.000Z",
-                    "utc_departure": "2023-08-30T05:15:00.000Z"
+                    "local_arrival": "2023-09-13T08:55:00.000Z",
+                    "utc_arrival": "2023-09-13T06:55:00.000Z",
+                    "local_departure": "2023-09-13T06:15:00.000Z",
+                    "utc_departure": "2023-09-13T05:15:00.000Z"
                 },
                 {
-                    "id": "0042032d4c9d000032635e9a_0",
-                    "combination_id": "0042032d4c9d000032635e9a",
+                    "id": "0042032d4ca4000030f32c5f_0",
+                    "combination_id": "0042032d4ca4000030f32c5f",
                     "flyFrom": "BER",
                     "flyTo": "STN",
                     "cityFrom": "Berlin",
@@ -113,14 +113,14 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-09-13T08:25:00.000Z",
-                    "utc_arrival": "2023-09-13T07:25:00.000Z",
-                    "local_departure": "2023-09-13T07:35:00.000Z",
-                    "utc_departure": "2023-09-13T05:35:00.000Z"
+                    "local_arrival": "2023-09-20T08:25:00.000Z",
+                    "utc_arrival": "2023-09-20T07:25:00.000Z",
+                    "local_departure": "2023-09-20T07:35:00.000Z",
+                    "utc_departure": "2023-09-20T05:35:00.000Z"
                 }
             ],
-            "booking_token": "GNHZKl2LT1--27uc-3RJvUAJu-KFpInXiTNvQTZNNjJoKZHQ9Aid0ItPbSv7HA0KjghqZ3G9e5qv4ThGTFAIvKWEkyiYHvCLu0-9PfYRq97XvH6a68894Wi6IN1Q7MRq0M4lAEzuauAgq-6YPRL2FCxmQhm3eaRcmH2FQvmE2yGMi2yaxcAFH5FXufM1vpcdx5atE4F0kb5KNhybsa_w7q6ty559CXhdjq4lreXRCo_Q7fYIg_Oxk2mS9-MBWS75pK48IQbt0QARZ3dcK0emzKMTp-c9BDaYI0wJ9jQ8ieCoVlwOW5FsxwBqx9DIAodJfRe_tuuxV-ilEKR49KsP_paPw9B231cqv84d-bl1KS6mTJmwAnRfNHgGoLKtnSZ18XktpCH4upD1cmG9bZwsWcpvq5vgA0IB_lgtI7BAhgklAgK1x5mmSKhQN2IcT0QSN339viSke1or3OUN4YIRHKg7h0HwXT9nDYH3tBtH76O7-87u00vWRo1Fl70HDUzrC",
-            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=032d00424c8f0000812042dc_0%7C0042032d4c9d000032635e9a_0&from=STN&lang=en&passengers=1&to=BER&booking_token=GNHZKl2LT1--27uc-3RJvUAJu-KFpInXiTNvQTZNNjJoKZHQ9Aid0ItPbSv7HA0KjghqZ3G9e5qv4ThGTFAIvKWEkyiYHvCLu0-9PfYRq97XvH6a68894Wi6IN1Q7MRq0M4lAEzuauAgq-6YPRL2FCxmQhm3eaRcmH2FQvmE2yGMi2yaxcAFH5FXufM1vpcdx5atE4F0kb5KNhybsa_w7q6ty559CXhdjq4lreXRCo_Q7fYIg_Oxk2mS9-MBWS75pK48IQbt0QARZ3dcK0emzKMTp-c9BDaYI0wJ9jQ8ieCoVlwOW5FsxwBqx9DIAodJfRe_tuuxV-ilEKR49KsP_paPw9B231cqv84d-bl1KS6mTJmwAnRfNHgGoLKtnSZ18XktpCH4upD1cmG9bZwsWcpvq5vgA0IB_lgtI7BAhgklAgK1x5mmSKhQN2IcT0QSN339viSke1or3OUN4YIRHKg7h0HwXT9nDYH3tBtH76O7-87u00vWRo1Fl70HDUzrC",
+            "booking_token": "GAMs0iTklwgXfXTA4fY39Rpm6vko3qDLI7LqHfbVjbtx1hYeLWz5IlJclWDdoZqUmIhdzt7iHIILqvBqh4CxIkn8HufpnpNj9na6_w9K04Q0uXEZbzVS4gDA4vHXTftMBEfB0POO2MQnMYYYUBvpJiuBIO1Em-XIWY26akqS1uJryemfMDjb27EqPOCm5qd1iW7Qm-nKly-KTabcpr8Y1T9sau_b77-WYwT7rkxCSMu6pJpOQJ-BGeZi0oLkdZPZlV_uKcAAjDvcKuLHyHV67CpHPEldFr-sC1oAb5ww_tc597HoKvFqKLXE9vY1Fl9n3vzvdedAwaIJkjaXn44Px3pgUNdt5rZCWItsKAxY7RuI5eAmkgYpN-64SrxLC9xAFkWHq12ybVyqoqx2hRlspSomegMgTwM6zSgjQl1SPPu77VWGiX5DwNOuKX25JIlyfL0EKIdFYy3Cb2YONZ6rEp0qy8uWcNjkEgzlEpo1juIGxiUxnLR9s_w9WtaXL33sp",
+            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=032d00424c9d000068c73fce_0%7C0042032d4ca4000030f32c5f_0&from=STN&lang=en&passengers=1&to=BER&booking_token=GAMs0iTklwgXfXTA4fY39Rpm6vko3qDLI7LqHfbVjbtx1hYeLWz5IlJclWDdoZqUmIhdzt7iHIILqvBqh4CxIkn8HufpnpNj9na6_w9K04Q0uXEZbzVS4gDA4vHXTftMBEfB0POO2MQnMYYYUBvpJiuBIO1Em-XIWY26akqS1uJryemfMDjb27EqPOCm5qd1iW7Qm-nKly-KTabcpr8Y1T9sau_b77-WYwT7rkxCSMu6pJpOQJ-BGeZi0oLkdZPZlV_uKcAAjDvcKuLHyHV67CpHPEldFr-sC1oAb5ww_tc597HoKvFqKLXE9vY1Fl9n3vzvdedAwaIJkjaXn44Px3pgUNdt5rZCWItsKAxY7RuI5eAmkgYpN-64SrxLC9xAFkWHq12ybVyqoqx2hRlspSomegMgTwM6zSgjQl1SPPu77VWGiX5DwNOuKX25JIlyfL0EKIdFYy3Cb2YONZ6rEp0qy8uWcNjkEgzlEpo1juIGxiUxnLR9s_w9WtaXL33sp",
             "facilitated_booking_available": false,
             "pnr_count": 2,
             "has_airport_change": false,
@@ -128,15 +128,15 @@
             "throw_away_ticketing": false,
             "hidden_city_ticketing": false,
             "virtual_interlining": false,
-            "local_arrival": "2023-08-30T08:55:00.000Z",
-            "utc_arrival": "2023-08-30T06:55:00.000Z",
-            "local_departure": "2023-08-30T06:15:00.000Z",
-            "utc_departure": "2023-08-30T05:15:00.000Z"
+            "local_arrival": "2023-09-13T08:55:00.000Z",
+            "utc_arrival": "2023-09-13T06:55:00.000Z",
+            "local_departure": "2023-09-13T06:15:00.000Z",
+            "utc_departure": "2023-09-13T05:15:00.000Z"
         },
         {
-            "id": "18ff25c34cb9000006ac0483_0|0a7c22f54cc10000119d9088_0",
-            "flyFrom": "LTN",
-            "flyTo": "CDG",
+            "id": "22f50a7c4c9c00005686f930_0|0a7c22f54ca30000caeeb75f_0",
+            "flyFrom": "LGW",
+            "flyTo": "ORY",
             "cityFrom": "London",
             "cityCodeFrom": "LON",
             "cityTo": "Paris",
@@ -149,25 +149,25 @@
                 "code": "FR",
                 "name": "France"
             },
-            "nightsInDest": 8,
-            "quality": 102.333225,
-            "distance": 380,
+            "nightsInDest": 7,
+            "quality": 105.333225,
+            "distance": 326.68,
             "duration": {
                 "departure": 4800,
                 "return": 3900,
                 "total": 8700
             },
-            "price": 59,
+            "price": 62,
             "conversion": {
-                "EUR": 59
+                "EUR": 62
             },
             "fare": {
-                "adults": 59,
-                "children": 59,
-                "infants": 59
+                "adults": 62,
+                "children": 62,
+                "infants": 62
             },
             "bags_price": {
-                "1": 100.485
+                "1": 93
             },
             "baglimit": {
                 "hand_height": 40,
@@ -177,7 +177,7 @@
                 "hold_dimensions_sum": 158,
                 "hold_height": 52,
                 "hold_length": 78,
-                "hold_weight": 15,
+                "hold_weight": 20,
                 "hold_width": 28,
                 "personal_item_height": 30,
                 "personal_item_length": 40,
@@ -188,26 +188,25 @@
                 "seats": null
             },
             "airlines": [
-                "U2",
                 "VY"
             ],
             "route": [
                 {
-                    "id": "18ff25c34cb9000006ac0483_0",
-                    "combination_id": "18ff25c34cb9000006ac0483",
-                    "flyFrom": "LTN",
-                    "flyTo": "CDG",
+                    "id": "22f50a7c4c9c00005686f930_0",
+                    "combination_id": "22f50a7c4c9c00005686f930",
+                    "flyFrom": "LGW",
+                    "flyTo": "ORY",
                     "cityFrom": "London",
                     "cityCodeFrom": "LON",
                     "cityTo": "Paris",
                     "cityCodeTo": "PAR",
-                    "airline": "U2",
-                    "flight_no": 2439,
-                    "operating_carrier": "U2",
-                    "operating_flight_no": "2439",
-                    "fare_basis": "",
+                    "airline": "VY",
+                    "flight_no": 8943,
+                    "operating_carrier": "VY",
+                    "operating_flight_no": "8943",
+                    "fare_basis": "DOWLPB",
                     "fare_category": "M",
-                    "fare_classes": "",
+                    "fare_classes": "D",
                     "fare_family": "",
                     "return": 0,
                     "bags_recheck_required": false,
@@ -215,14 +214,14 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-10-11T21:20:00.000Z",
-                    "utc_arrival": "2023-10-11T19:20:00.000Z",
-                    "local_departure": "2023-10-11T19:00:00.000Z",
-                    "utc_departure": "2023-10-11T18:00:00.000Z"
+                    "local_arrival": "2023-09-12T10:05:00.000Z",
+                    "utc_arrival": "2023-09-12T08:05:00.000Z",
+                    "local_departure": "2023-09-12T07:45:00.000Z",
+                    "utc_departure": "2023-09-12T06:45:00.000Z"
                 },
                 {
-                    "id": "0a7c22f54cc10000119d9088_0",
-                    "combination_id": "0a7c22f54cc10000119d9088",
+                    "id": "0a7c22f54ca30000caeeb75f_0",
+                    "combination_id": "0a7c22f54ca30000caeeb75f",
                     "flyFrom": "ORY",
                     "flyTo": "LGW",
                     "cityFrom": "Paris",
@@ -243,14 +242,14 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-10-19T07:15:00.000Z",
-                    "utc_arrival": "2023-10-19T06:15:00.000Z",
-                    "local_departure": "2023-10-19T07:10:00.000Z",
-                    "utc_departure": "2023-10-19T05:10:00.000Z"
+                    "local_arrival": "2023-09-19T06:55:00.000Z",
+                    "utc_arrival": "2023-09-19T05:55:00.000Z",
+                    "local_departure": "2023-09-19T06:50:00.000Z",
+                    "utc_departure": "2023-09-19T04:50:00.000Z"
                 }
             ],
-            "booking_token": "GflGXTTCIe_ESdKyyDgwhH9ZMSUAdFuH_tlcg9sc4ev8VPHgxUtXs14YJT1EViyGRtaGpSpoLSXj1q-6p8Zq3nN6uBUf7cXieBLlbz8BDp8A4sEV_Z5hTBLCAEtD3JBaf5HrhiIdmx-cAN96sEFJpXd-ZCWpjPXbLr5atbsBzrHRJI8unMtO2eq3hXQtcWDypJ93tw1tBczV1HgxQcFeaI5kTPLWsMJazyIT9IN5vg29brJUP7seBwkYvUMeZKXHQbSSsaDN-xNvJHdeC9b38EOExvtcratupwiHTpN_iBTnwl5bYpuqAM1k5HgWYRSWbxMwwP0rHtBSCEHaYEaxu5kFbp7pvt5jsEaPj8iU-MyJwT4glU8iiUEaK2YclPyZJxgB0jl9-vlzzb38DTszsKSfQEMmbrkBfvgER8-nBGz2Dh8IWNncvP1pt0LcTQ4BsqXoKFEE7fHnYBbtE1V5uALaQclGurHWxKMVDvNyBkaPxZXVW6hcwXuYa66FjeHYRvIGT0HMG7VbWdEbyJKGX3w==",
-            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=18ff25c34cb9000006ac0483_0%7C0a7c22f54cc10000119d9088_0&from=LTN&lang=en&passengers=1&to=CDG&booking_token=GflGXTTCIe_ESdKyyDgwhH9ZMSUAdFuH_tlcg9sc4ev8VPHgxUtXs14YJT1EViyGRtaGpSpoLSXj1q-6p8Zq3nN6uBUf7cXieBLlbz8BDp8A4sEV_Z5hTBLCAEtD3JBaf5HrhiIdmx-cAN96sEFJpXd-ZCWpjPXbLr5atbsBzrHRJI8unMtO2eq3hXQtcWDypJ93tw1tBczV1HgxQcFeaI5kTPLWsMJazyIT9IN5vg29brJUP7seBwkYvUMeZKXHQbSSsaDN-xNvJHdeC9b38EOExvtcratupwiHTpN_iBTnwl5bYpuqAM1k5HgWYRSWbxMwwP0rHtBSCEHaYEaxu5kFbp7pvt5jsEaPj8iU-MyJwT4glU8iiUEaK2YclPyZJxgB0jl9-vlzzb38DTszsKSfQEMmbrkBfvgER8-nBGz2Dh8IWNncvP1pt0LcTQ4BsqXoKFEE7fHnYBbtE1V5uALaQclGurHWxKMVDvNyBkaPxZXVW6hcwXuYa66FjeHYRvIGT0HMG7VbWdEbyJKGX3w==",
+            "booking_token": "G3C1HwUUYsJKqsEj4MNScy9Wdi6XrHE84Wh_IbHNWyVdolFmO1ybum5uEVKPRoDzsSpJsnvTTPNUCj16kzU44DPJgYl2IwrH_lKU1RWM_WiwHBP_6zZQcgx8uNHtAlQoqlE8ncV1ZCZ1pFJBtr84S8xsxRjRUIvjWTZ4Rr5YQU6g5QLssfVy3onZGZx-1xvhXMQ1EfWZ5aeYt3dxGhgYtcJoRRuOmzVhYGq1X55b7xrWeCYPVy1mJqnTPDVg6jUZ9y-4VAhNua2drOxPZ1x3mV-DPVor8XlitAkS4AAOzNyaNgSPzjSD_R0J3ETF7t2lVVQeRuge4R2RYh0GZZjOgtVOuiULnbKHdBnlORUUd0xooz5qzuQkaZEc1m3T9QhULneTFqnXLz1tlAl05d2B-WQvDJ2fIH_IVqhfVLJ512TkWo0Mo1SO94m0unqcvVhT5KRwjK80KaAjY75ormlV7gzZ09_u2MMK0qJujTeEfqJKG1kgPJpbk96E2vb8RmwgU",
+            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=22f50a7c4c9c00005686f930_0%7C0a7c22f54ca30000caeeb75f_0&from=LGW&lang=en&passengers=1&to=ORY&booking_token=G3C1HwUUYsJKqsEj4MNScy9Wdi6XrHE84Wh_IbHNWyVdolFmO1ybum5uEVKPRoDzsSpJsnvTTPNUCj16kzU44DPJgYl2IwrH_lKU1RWM_WiwHBP_6zZQcgx8uNHtAlQoqlE8ncV1ZCZ1pFJBtr84S8xsxRjRUIvjWTZ4Rr5YQU6g5QLssfVy3onZGZx-1xvhXMQ1EfWZ5aeYt3dxGhgYtcJoRRuOmzVhYGq1X55b7xrWeCYPVy1mJqnTPDVg6jUZ9y-4VAhNua2drOxPZ1x3mV-DPVor8XlitAkS4AAOzNyaNgSPzjSD_R0J3ETF7t2lVVQeRuge4R2RYh0GZZjOgtVOuiULnbKHdBnlORUUd0xooz5qzuQkaZEc1m3T9QhULneTFqnXLz1tlAl05d2B-WQvDJ2fIH_IVqhfVLJ512TkWo0Mo1SO94m0unqcvVhT5KRwjK80KaAjY75ormlV7gzZ09_u2MMK0qJujTeEfqJKG1kgPJpbk96E2vb8RmwgU",
             "facilitated_booking_available": true,
             "pnr_count": 2,
             "has_airport_change": false,
@@ -258,13 +257,13 @@
             "throw_away_ticketing": false,
             "hidden_city_ticketing": false,
             "virtual_interlining": false,
-            "local_arrival": "2023-10-11T21:20:00.000Z",
-            "utc_arrival": "2023-10-11T19:20:00.000Z",
-            "local_departure": "2023-10-11T19:00:00.000Z",
-            "utc_departure": "2023-10-11T18:00:00.000Z"
+            "local_arrival": "2023-09-12T10:05:00.000Z",
+            "utc_arrival": "2023-09-12T08:05:00.000Z",
+            "local_departure": "2023-09-12T07:45:00.000Z",
+            "utc_departure": "2023-09-12T06:45:00.000Z"
         },
         {
-            "id": "18ff170f4cda000074d585b2_0|170f22f54ce5000069439c93_0",
+            "id": "18ff170f4cd80000ec8d4b07_0|170f18ff4ce500000ee1f792_0",
             "flyFrom": "LTN",
             "flyTo": "IST",
             "cityFrom": "London",
@@ -279,26 +278,26 @@
                 "code": "TR",
                 "name": "Turkey"
             },
-            "nightsInDest": 11,
-            "quality": 166.666445,
+            "nightsInDest": 13,
+            "quality": 149.99978,
             "distance": 2497.81,
             "duration": {
                 "departure": 14100,
-                "return": 15000,
-                "total": 29100
+                "return": 14700,
+                "total": 28800
             },
-            "price": 78,
+            "price": 62,
             "conversion": {
-                "EUR": 78
+                "EUR": 62
             },
             "fare": {
-                "adults": 78,
-                "children": 78,
-                "infants": 78
+                "adults": 62,
+                "children": 62,
+                "infants": 62
             },
             "bags_price": {
-                "1": 112.0185,
-                "2": 224.0205
+                "1": 82.995,
+                "2": 165.99
             },
             "baglimit": {
                 "hand_height": 40,
@@ -316,15 +315,15 @@
                 "personal_item_width": 20
             },
             "availability": {
-                "seats": 6
+                "seats": 4
             },
             "airlines": [
                 "W9"
             ],
             "route": [
                 {
-                    "id": "18ff170f4cda000074d585b2_0",
-                    "combination_id": "18ff170f4cda000074d585b2",
+                    "id": "18ff170f4cd80000ec8d4b07_0",
+                    "combination_id": "18ff170f4cd80000ec8d4b07",
                     "flyFrom": "LTN",
                     "flyTo": "IST",
                     "cityFrom": "London",
@@ -335,9 +334,9 @@
                     "flight_no": 4499,
                     "operating_carrier": "",
                     "operating_flight_no": "",
-                    "fare_basis": "PREG",
+                    "fare_basis": "RREG",
                     "fare_category": "M",
-                    "fare_classes": "P",
+                    "fare_classes": "R",
                     "fare_family": "",
                     "return": 0,
                     "bags_recheck_required": false,
@@ -345,27 +344,27 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-11-13T21:30:00.000Z",
-                    "utc_arrival": "2023-11-13T18:30:00.000Z",
-                    "local_departure": "2023-11-13T14:35:00.000Z",
-                    "utc_departure": "2023-11-13T14:35:00.000Z"
+                    "local_arrival": "2023-11-11T21:30:00.000Z",
+                    "utc_arrival": "2023-11-11T18:30:00.000Z",
+                    "local_departure": "2023-11-11T14:35:00.000Z",
+                    "utc_departure": "2023-11-11T14:35:00.000Z"
                 },
                 {
-                    "id": "170f22f54ce5000069439c93_0",
-                    "combination_id": "170f22f54ce5000069439c93",
+                    "id": "170f18ff4ce500000ee1f792_0",
+                    "combination_id": "170f18ff4ce500000ee1f792",
                     "flyFrom": "IST",
-                    "flyTo": "LGW",
+                    "flyTo": "LTN",
                     "cityFrom": "Istanbul",
                     "cityCodeFrom": "IST",
                     "cityTo": "London",
                     "cityCodeTo": "LON",
                     "airline": "W9",
-                    "flight_no": 5772,
+                    "flight_no": 4500,
                     "operating_carrier": "",
                     "operating_flight_no": "",
-                    "fare_basis": "PRREG",
+                    "fare_basis": "RREG",
                     "fare_category": "M",
-                    "fare_classes": "P",
+                    "fare_classes": "R",
                     "fare_family": "",
                     "return": 1,
                     "bags_recheck_required": false,
@@ -373,14 +372,14 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-11-24T21:40:00.000Z",
-                    "utc_arrival": "2023-11-24T21:40:00.000Z",
-                    "local_departure": "2023-11-24T20:30:00.000Z",
-                    "utc_departure": "2023-11-24T17:30:00.000Z"
+                    "local_arrival": "2023-11-24T23:10:00.000Z",
+                    "utc_arrival": "2023-11-24T23:10:00.000Z",
+                    "local_departure": "2023-11-24T22:05:00.000Z",
+                    "utc_departure": "2023-11-24T19:05:00.000Z"
                 }
             ],
-            "booking_token": "GnhkfOQxQCK_R61vSMUmjsThlb5ycFu59busPR8UONWrJW97sZXTiubFHNQj8BznWx48t_o5CxENms8yzTHpxfudUSxivpKOLHFgRdnzACEopgPgTMwc6aFfjIPC5JGkFQx3vail45TsOVuFDuPrV0uCNsMvVCuujiCNe1dJQGVo_PbZAaSmPk0Hx9_SL1e8Is3qMxQUReP6uk9TyZuJimnh_rcEyfANfDhPhWgQmjTkqHMNj-l3YAeAnFYFXaXM99l7aFagRDELc0-ravkE9JfYopu7ulZSavJnBPUmJqbGGPrlbqJg_5Gqg8LI6OL0fLS6r6zbQXju9eFWeLJNDC089hLVkpm89aUu1nq1fbQS9QFGTvLqaPwUpPW-rPiFgKTpfeaw2bb_yRPjUhSueQac6YqNOdDe0GJdbEVypVLRm1jBNLJwGbrswTP7E9iZ_1ZQc-fq4mAgQWH9OdMCBwebJzrtnBit1JJrHCqEXNvHIu0jnP1xK_SI8ksYmc48_ZCM_5cdVf4W7tqDfMb3kH8ArbzvX02yEZUEc7lBjZXY=",
-            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=18ff170f4cda000074d585b2_0%7C170f22f54ce5000069439c93_0&from=LTN&lang=en&passengers=1&to=IST&booking_token=GnhkfOQxQCK_R61vSMUmjsThlb5ycFu59busPR8UONWrJW97sZXTiubFHNQj8BznWx48t_o5CxENms8yzTHpxfudUSxivpKOLHFgRdnzACEopgPgTMwc6aFfjIPC5JGkFQx3vail45TsOVuFDuPrV0uCNsMvVCuujiCNe1dJQGVo_PbZAaSmPk0Hx9_SL1e8Is3qMxQUReP6uk9TyZuJimnh_rcEyfANfDhPhWgQmjTkqHMNj-l3YAeAnFYFXaXM99l7aFagRDELc0-ravkE9JfYopu7ulZSavJnBPUmJqbGGPrlbqJg_5Gqg8LI6OL0fLS6r6zbQXju9eFWeLJNDC089hLVkpm89aUu1nq1fbQS9QFGTvLqaPwUpPW-rPiFgKTpfeaw2bb_yRPjUhSueQac6YqNOdDe0GJdbEVypVLRm1jBNLJwGbrswTP7E9iZ_1ZQc-fq4mAgQWH9OdMCBwebJzrtnBit1JJrHCqEXNvHIu0jnP1xK_SI8ksYmc48_ZCM_5cdVf4W7tqDfMb3kH8ArbzvX02yEZUEc7lBjZXY=",
+            "booking_token": "GNIOp2tJZ2P5cTvUQk4eusOeMQav33la2CbapcGwedWxxdILm3UWJHCmPphnSCwqE7hH9cMa-UbNFnwXyg3pf9Kx7J4u-0hLxUGrU79Ra9_YhJLbenpAMq0h-ep6r6vPl63nBSXKpPxZR8SmXvhAozgQ1JfAx9HF_ZzP0o0ZMFW3QeRmADYHv-9nkgX0JBxBvrR_cu73_6FTkqK__0PuWIE7noZOb5UATNM-6HQDlTYm-xKg06LjJdR4_ljVaL3jzQzTqYVwCrihxOOwdeXykAapPJU8xmAmC2SESAx2DPYxoaANHbaEcmLQh6SQ5hJA0VoUfQBGpHAYxK3CQ6Vx-WJDg7WErtLg02ZRycK1FqmL31DNnQwq2p1JHvKzocNSbuVN2SkyfZicZQHz18V9UZIjGo3eqALgTo_nuG991IRk4LZlmQA1rT22Z4Ewukr-Lu-a7SuKKYVw9mDWKLsMGxqIE3sSI-4FNESgHh4EpHoZYhlLPjlKiqCaqnA1_NRsg",
+            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=18ff170f4cd80000ec8d4b07_0%7C170f18ff4ce500000ee1f792_0&from=LTN&lang=en&passengers=1&to=IST&booking_token=GNIOp2tJZ2P5cTvUQk4eusOeMQav33la2CbapcGwedWxxdILm3UWJHCmPphnSCwqE7hH9cMa-UbNFnwXyg3pf9Kx7J4u-0hLxUGrU79Ra9_YhJLbenpAMq0h-ep6r6vPl63nBSXKpPxZR8SmXvhAozgQ1JfAx9HF_ZzP0o0ZMFW3QeRmADYHv-9nkgX0JBxBvrR_cu73_6FTkqK__0PuWIE7noZOb5UATNM-6HQDlTYm-xKg06LjJdR4_ljVaL3jzQzTqYVwCrihxOOwdeXykAapPJU8xmAmC2SESAx2DPYxoaANHbaEcmLQh6SQ5hJA0VoUfQBGpHAYxK3CQ6Vx-WJDg7WErtLg02ZRycK1FqmL31DNnQwq2p1JHvKzocNSbuVN2SkyfZicZQHz18V9UZIjGo3eqALgTo_nuG991IRk4LZlmQA1rT22Z4Ewukr-Lu-a7SuKKYVw9mDWKLsMGxqIE3sSI-4FNESgHh4EpHoZYhlLPjlKiqCaqnA1_NRsg",
             "facilitated_booking_available": false,
             "pnr_count": 2,
             "has_airport_change": false,
@@ -388,13 +387,13 @@
             "throw_away_ticketing": false,
             "hidden_city_ticketing": false,
             "virtual_interlining": false,
-            "local_arrival": "2023-11-13T21:30:00.000Z",
-            "utc_arrival": "2023-11-13T18:30:00.000Z",
-            "local_departure": "2023-11-13T14:35:00.000Z",
-            "utc_departure": "2023-11-13T14:35:00.000Z"
+            "local_arrival": "2023-11-11T21:30:00.000Z",
+            "utc_arrival": "2023-11-11T18:30:00.000Z",
+            "local_departure": "2023-11-11T14:35:00.000Z",
+            "utc_departure": "2023-11-11T14:35:00.000Z"
         },
         {
-            "id": "22f520a14cc8000044486897_0|20a122f54cd50000e67a6225_0",
+            "id": "22f520a14cb30000afbb16c9_0|20a122f54cb80000aa08fc15_0",
             "flyFrom": "LGW",
             "flyTo": "JFK",
             "cityFrom": "London",
@@ -409,25 +408,25 @@
                 "code": "US",
                 "name": "United States"
             },
-            "nightsInDest": 13,
-            "quality": 564.666315,
+            "nightsInDest": 5,
+            "quality": 470.999645,
             "distance": 5574.88,
             "duration": {
                 "departure": 27900,
-                "return": 24600,
-                "total": 52500
+                "return": 25200,
+                "total": 53100
             },
-            "price": 424,
+            "price": 329,
             "conversion": {
-                "EUR": 424
+                "EUR": 329
             },
             "fare": {
-                "adults": 424,
-                "children": 424,
-                "infants": 424
+                "adults": 329,
+                "children": 329,
+                "infants": 329
             },
             "bags_price": {
-                "1": 191.85
+                "1": 188.79
             },
             "baglimit": {
                 "hand_height": 45,
@@ -445,15 +444,15 @@
                 "personal_item_width": 22
             },
             "availability": {
-                "seats": 3
+                "seats": 9
             },
             "airlines": [
                 "Z0"
             ],
             "route": [
                 {
-                    "id": "22f520a14cc8000044486897_0",
-                    "combination_id": "22f520a14cc8000044486897",
+                    "id": "22f520a14cb30000afbb16c9_0",
+                    "combination_id": "22f520a14cb30000afbb16c9",
                     "flyFrom": "LGW",
                     "flyTo": "JFK",
                     "cityFrom": "London",
@@ -474,14 +473,14 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-10-26T15:50:00.000Z",
-                    "utc_arrival": "2023-10-26T19:50:00.000Z",
-                    "local_departure": "2023-10-26T13:05:00.000Z",
-                    "utc_departure": "2023-10-26T12:05:00.000Z"
+                    "local_arrival": "2023-10-05T15:50:00.000Z",
+                    "utc_arrival": "2023-10-05T19:50:00.000Z",
+                    "local_departure": "2023-10-05T13:05:00.000Z",
+                    "utc_departure": "2023-10-05T12:05:00.000Z"
                 },
                 {
-                    "id": "20a122f54cd50000e67a6225_0",
-                    "combination_id": "20a122f54cd50000e67a6225",
+                    "id": "20a122f54cb80000aa08fc15_0",
+                    "combination_id": "20a122f54cb80000aa08fc15",
                     "flyFrom": "JFK",
                     "flyTo": "LGW",
                     "cityFrom": "New York",
@@ -502,14 +501,14 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-11-09T06:00:00.000Z",
-                    "utc_arrival": "2023-11-09T06:00:00.000Z",
-                    "local_departure": "2023-11-08T18:10:00.000Z",
-                    "utc_departure": "2023-11-08T23:10:00.000Z"
+                    "local_arrival": "2023-10-11T06:20:00.000Z",
+                    "utc_arrival": "2023-10-11T05:20:00.000Z",
+                    "local_departure": "2023-10-10T18:20:00.000Z",
+                    "utc_departure": "2023-10-10T22:20:00.000Z"
                 }
             ],
-            "booking_token": "GyEPfklF9mMpjWU4z3JE7ZRPxTveVazUsRSgS6jDhp_6y2D0YZM6LeLnDub5E7MAdQ_cRo5iRiEe0mCqyJXn2MaIj4Xtzrt3sBeIS2kyxhU7FbEaBRKG4Fq6UyZ5_8Ll-H3mQEtaZr7vOAv5zr92Pgg_wqTWB84imaE8DSS9K591OG4U7YFLxHV-OBhBO0O_Urv7OiLgefaXmhgpDMZj_zzNOqQEE0QfhKJosilYWd9Lzds44pdWKaB1haovEO2jD1iScaRhCXoM1s9WbhJpmZy4PXLTACemUif4jgDXj_gYJikTiVpXOgkG5FryQzIztz3--2zQFs1pZRf7TTjMkU_MnAw7bp1S8AvrYANkZU7tI9xzhNBv2RChnqdh1FYeMjSnEIJshX4dwfjFcaL1t5SdPaMIulv2fwjYrrwA-aib1Y5dzm83taR60pdyVrvZDyWdDkpYDJGlH1fuanCwMM3jDFWpLi0HmfAdmSXN6yO95tFtmKWECxYwAwhggsnKwuTTMWPcBYCPicPej7rPivw==",
-            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=22f520a14cc8000044486897_0%7C20a122f54cd50000e67a6225_0&from=LGW&lang=en&passengers=1&to=JFK&booking_token=GyEPfklF9mMpjWU4z3JE7ZRPxTveVazUsRSgS6jDhp_6y2D0YZM6LeLnDub5E7MAdQ_cRo5iRiEe0mCqyJXn2MaIj4Xtzrt3sBeIS2kyxhU7FbEaBRKG4Fq6UyZ5_8Ll-H3mQEtaZr7vOAv5zr92Pgg_wqTWB84imaE8DSS9K591OG4U7YFLxHV-OBhBO0O_Urv7OiLgefaXmhgpDMZj_zzNOqQEE0QfhKJosilYWd9Lzds44pdWKaB1haovEO2jD1iScaRhCXoM1s9WbhJpmZy4PXLTACemUif4jgDXj_gYJikTiVpXOgkG5FryQzIztz3--2zQFs1pZRf7TTjMkU_MnAw7bp1S8AvrYANkZU7tI9xzhNBv2RChnqdh1FYeMjSnEIJshX4dwfjFcaL1t5SdPaMIulv2fwjYrrwA-aib1Y5dzm83taR60pdyVrvZDyWdDkpYDJGlH1fuanCwMM3jDFWpLi0HmfAdmSXN6yO95tFtmKWECxYwAwhggsnKwuTTMWPcBYCPicPej7rPivw==",
+            "booking_token": "GQxC16yIgn741X5qhMwDIavbwZof-KB0SflGn0zMGxwk_mfA-_jsm5Ayf9z04swAHO98gtRVgfkXTreW0yixX7QHckzV7futIUJhrv-Km-ystIBCNy0CXo_NSdhw99Fd2IyRh-jx_mMbaWgdID0VVJ09rYYvJODAKV5jn-uVuyW5kruW8XUzgwiRN1Xd2V8bxtVjwaw_9f2B4OgCyatOV-UyCUCyn-w25UrXzjfUuYdYvzwy5QGOf7Bi8t-G8bPDeeQ5m-rMcaOZ8OKRjxD9OrhVMWtpl7CKYc4-NeFu6OlC3Cmoq7vI7oOsI6PbcqaCtmDDnBoomU69i3XCs4tdwm5JYUn6XqG6sdYBg1_fyBNIObEjC12ew_nb7xgpxwPtCb9w9XOWewzJSqjuzNh6cGo5ijJV5e251WHq5y4oh3d6jVhzS4iqcYtc3NsD0EZ37lBbujWjmPp_z90K_TWXM0n6nQlvupvMxKZILnK3qwYY7KCuBzTLN-5Fy9NYcU-MYbr4JkLzZ18NvbygZVN0KEvJSrt2zAxhBI5DmmbJAumD5mmFBWOi0Uy0WP5vcEfkF",
+            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=22f520a14cb30000afbb16c9_0%7C20a122f54cb80000aa08fc15_0&from=LGW&lang=en&passengers=1&to=JFK&booking_token=GQxC16yIgn741X5qhMwDIavbwZof-KB0SflGn0zMGxwk_mfA-_jsm5Ayf9z04swAHO98gtRVgfkXTreW0yixX7QHckzV7futIUJhrv-Km-ystIBCNy0CXo_NSdhw99Fd2IyRh-jx_mMbaWgdID0VVJ09rYYvJODAKV5jn-uVuyW5kruW8XUzgwiRN1Xd2V8bxtVjwaw_9f2B4OgCyatOV-UyCUCyn-w25UrXzjfUuYdYvzwy5QGOf7Bi8t-G8bPDeeQ5m-rMcaOZ8OKRjxD9OrhVMWtpl7CKYc4-NeFu6OlC3Cmoq7vI7oOsI6PbcqaCtmDDnBoomU69i3XCs4tdwm5JYUn6XqG6sdYBg1_fyBNIObEjC12ew_nb7xgpxwPtCb9w9XOWewzJSqjuzNh6cGo5ijJV5e251WHq5y4oh3d6jVhzS4iqcYtc3NsD0EZ37lBbujWjmPp_z90K_TWXM0n6nQlvupvMxKZILnK3qwYY7KCuBzTLN-5Fy9NYcU-MYbr4JkLzZ18NvbygZVN0KEvJSrt2zAxhBI5DmmbJAumD5mmFBWOi0Uy0WP5vcEfkF",
             "facilitated_booking_available": true,
             "pnr_count": 2,
             "has_airport_change": false,
@@ -517,13 +516,13 @@
             "throw_away_ticketing": false,
             "hidden_city_ticketing": false,
             "virtual_interlining": false,
-            "local_arrival": "2023-10-26T15:50:00.000Z",
-            "utc_arrival": "2023-10-26T19:50:00.000Z",
-            "local_departure": "2023-10-26T13:05:00.000Z",
-            "utc_departure": "2023-10-26T12:05:00.000Z"
+            "local_arrival": "2023-10-05T15:50:00.000Z",
+            "utc_arrival": "2023-10-05T19:50:00.000Z",
+            "local_departure": "2023-10-05T13:05:00.000Z",
+            "utc_departure": "2023-10-05T12:05:00.000Z"
         },
         {
-            "id": "22f50f9c4cc10000307e55eb_0|0f9c22f54cc6000005e01a02_0",
+            "id": "22f50f9c4cac00003da2ccc4_0|0f9c22f54cb10000600716b5_0",
             "flyFrom": "LGW",
             "flyTo": "SFO",
             "cityFrom": "London",
@@ -539,24 +538,24 @@
                 "name": "United States"
             },
             "nightsInDest": 5,
-            "quality": 678.33284,
+            "quality": 588.33284,
             "distance": 8665.35,
             "duration": {
                 "departure": 40500,
                 "return": 37500,
                 "total": 78000
             },
-            "price": 481,
+            "price": 391,
             "conversion": {
-                "EUR": 481
+                "EUR": 391
             },
             "fare": {
-                "adults": 481,
-                "children": 481,
-                "infants": 481
+                "adults": 391,
+                "children": 391,
+                "infants": 391
             },
             "bags_price": {
-                "1": 191.85
+                "1": 188.79
             },
             "baglimit": {
                 "hand_height": 45,
@@ -574,15 +573,15 @@
                 "personal_item_width": 22
             },
             "availability": {
-                "seats": 8
+                "seats": 9
             },
             "airlines": [
                 "Z0"
             ],
             "route": [
                 {
-                    "id": "22f50f9c4cc10000307e55eb_0",
-                    "combination_id": "22f50f9c4cc10000307e55eb",
+                    "id": "22f50f9c4cac00003da2ccc4_0",
+                    "combination_id": "22f50f9c4cac00003da2ccc4",
                     "flyFrom": "LGW",
                     "flyTo": "SFO",
                     "cityFrom": "London",
@@ -603,14 +602,14 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-10-19T13:25:00.000Z",
-                    "utc_arrival": "2023-10-19T20:25:00.000Z",
-                    "local_departure": "2023-10-19T10:10:00.000Z",
-                    "utc_departure": "2023-10-19T09:10:00.000Z"
+                    "local_arrival": "2023-09-28T13:25:00.000Z",
+                    "utc_arrival": "2023-09-28T20:25:00.000Z",
+                    "local_departure": "2023-09-28T10:10:00.000Z",
+                    "utc_departure": "2023-09-28T09:10:00.000Z"
                 },
                 {
-                    "id": "0f9c22f54cc6000005e01a02_0",
-                    "combination_id": "0f9c22f54cc6000005e01a02",
+                    "id": "0f9c22f54cb10000600716b5_0",
+                    "combination_id": "0f9c22f54cb10000600716b5",
                     "flyFrom": "SFO",
                     "flyTo": "LGW",
                     "cityFrom": "San Francisco",
@@ -631,14 +630,14 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-10-25T09:50:00.000Z",
-                    "utc_arrival": "2023-10-25T08:50:00.000Z",
-                    "local_departure": "2023-10-24T15:25:00.000Z",
-                    "utc_departure": "2023-10-24T22:25:00.000Z"
+                    "local_arrival": "2023-10-04T09:50:00.000Z",
+                    "utc_arrival": "2023-10-04T08:50:00.000Z",
+                    "local_departure": "2023-10-03T15:25:00.000Z",
+                    "utc_departure": "2023-10-03T22:25:00.000Z"
                 }
             ],
-            "booking_token": "GxfnGHGLXeYwRWHFBTd1y4BFO6EcNMTX-VHPvwQEgA03HMwLQHUbAV8thVqtt7HWnHsRlVPdJ7bYyHHoA9H8WekR5xWiOb9vYXv4hUxZFmJQ_hIdmb9UEuct0WvFhNei61Hg0SCoNRYaMl7jIeQmXgMYeBdDRiE8tCgCBJGhFbAKoMK-P0DgAgI9Vd5xw5mlW63fcozmTABX7v03Qq3n8XhhaVqinFkHa65Xem11KgLu3VgjxVoP6DkQsSXr2ucriQC8AgmD3C9hmyBPQoL7-APhwViulhXopyf9K08a05xrJRSmPC_MjeGzxb9Mv4Rlef9w7F7jnH3mdXbqvBH_SCziMVwuZcqA3ZcxXF8CAqce4aFiZtC-v7IoTaVLuh0jAEDmvwaJjV89_hohZu1cpglC7Bvr2WUjL2Q4q96m5_n_u8nr84nLi0rC9EVNU5P6FAyrL52ZY2OL6b6MmmbOY7CSWf7k7UeAg09lrkIFpQnb7rDXLxYYvMQrukmdHBSk1LAV5Ez1Rt_DTZpaogov1hBkChfyqcGpEtKvJBUTOl9Y=",
-            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=22f50f9c4cc10000307e55eb_0%7C0f9c22f54cc6000005e01a02_0&from=LGW&lang=en&passengers=1&to=SFO&booking_token=GxfnGHGLXeYwRWHFBTd1y4BFO6EcNMTX-VHPvwQEgA03HMwLQHUbAV8thVqtt7HWnHsRlVPdJ7bYyHHoA9H8WekR5xWiOb9vYXv4hUxZFmJQ_hIdmb9UEuct0WvFhNei61Hg0SCoNRYaMl7jIeQmXgMYeBdDRiE8tCgCBJGhFbAKoMK-P0DgAgI9Vd5xw5mlW63fcozmTABX7v03Qq3n8XhhaVqinFkHa65Xem11KgLu3VgjxVoP6DkQsSXr2ucriQC8AgmD3C9hmyBPQoL7-APhwViulhXopyf9K08a05xrJRSmPC_MjeGzxb9Mv4Rlef9w7F7jnH3mdXbqvBH_SCziMVwuZcqA3ZcxXF8CAqce4aFiZtC-v7IoTaVLuh0jAEDmvwaJjV89_hohZu1cpglC7Bvr2WUjL2Q4q96m5_n_u8nr84nLi0rC9EVNU5P6FAyrL52ZY2OL6b6MmmbOY7CSWf7k7UeAg09lrkIFpQnb7rDXLxYYvMQrukmdHBSk1LAV5Ez1Rt_DTZpaogov1hBkChfyqcGpEtKvJBUTOl9Y=",
+            "booking_token": "GjoJkFgdt59GeAr9dLbHCRcQNHDBLwjSvF0z39PYG57QyPdU6SY5oyXYTU6Uwhsav3FDiSZjM9vhKy92yXB4_Uq0I5vJzBfixAv9pDo7jtj565jnNqW9KjszQQHvBtn9k36LupIvRubH_qMu7zCMGVESicxff9ojLl4DX_gOVOPDZnXHHAUkpwVtxbo4Z-mpX1bBrPCKYEHd4URqrmsQf-Uzt6ZZJ4vf9ygb6vob6xvlKXdfIqUnIvMZtMdcYEaDKfLRLRdJQEmbc1V3sCfMD64lKmcYrsSdje9dtslajbIpMWlVEgA9gofdPVF088YLkfCYjoFluZarUSw8FizLKmpaEAErjrIZfY2UGh6NeVOxA_TZytHbD9Ewgv5xYkpgVY03QoLqcFTaECbA6VCbYV2wiCOJGeQC5Vy8JR-9A9kGoBBFdaXYAmPsS5iXOBtn-rYCpd1kwsdXnO9Na8D80X4XHIBNIaQpU1tm0FyxBvUdXVeGbJPaK7gCGliHAIgqs2xjDDSoQeHGZlsaCbfuN_AACdKPI0ozyauw_2Xd-Trw=",
+            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=22f50f9c4cac00003da2ccc4_0%7C0f9c22f54cb10000600716b5_0&from=LGW&lang=en&passengers=1&to=SFO&booking_token=GjoJkFgdt59GeAr9dLbHCRcQNHDBLwjSvF0z39PYG57QyPdU6SY5oyXYTU6Uwhsav3FDiSZjM9vhKy92yXB4_Uq0I5vJzBfixAv9pDo7jtj565jnNqW9KjszQQHvBtn9k36LupIvRubH_qMu7zCMGVESicxff9ojLl4DX_gOVOPDZnXHHAUkpwVtxbo4Z-mpX1bBrPCKYEHd4URqrmsQf-Uzt6ZZJ4vf9ygb6vob6xvlKXdfIqUnIvMZtMdcYEaDKfLRLRdJQEmbc1V3sCfMD64lKmcYrsSdje9dtslajbIpMWlVEgA9gofdPVF088YLkfCYjoFluZarUSw8FizLKmpaEAErjrIZfY2UGh6NeVOxA_TZytHbD9Ewgv5xYkpgVY03QoLqcFTaECbA6VCbYV2wiCOJGeQC5Vy8JR-9A9kGoBBFdaXYAmPsS5iXOBtn-rYCpd1kwsdXnO9Na8D80X4XHIBNIaQpU1tm0FyxBvUdXVeGbJPaK7gCGliHAIgqs2xjDDSoQeHGZlsaCbfuN_AACdKPI0ozyauw_2Xd-Trw=",
             "facilitated_booking_available": true,
             "pnr_count": 2,
             "has_airport_change": false,
@@ -646,13 +645,225 @@
             "throw_away_ticketing": false,
             "hidden_city_ticketing": false,
             "virtual_interlining": false,
-            "local_arrival": "2023-10-19T13:25:00.000Z",
-            "utc_arrival": "2023-10-19T20:25:00.000Z",
-            "local_departure": "2023-10-19T10:10:00.000Z",
-            "utc_departure": "2023-10-19T09:10:00.000Z"
+            "local_arrival": "2023-09-28T13:25:00.000Z",
+            "utc_arrival": "2023-09-28T20:25:00.000Z",
+            "local_departure": "2023-09-28T10:10:00.000Z",
+            "utc_departure": "2023-09-28T09:10:00.000Z"
         },
         {
-            "id": "0f6407c74c9a0000a59bc097_0|0f6407c74c9a0000a59bc097_1|07c725994c9d00007522f4e4_0|07c725994c9d00007522f4e4_1",
+            "id": "032d1cce4d1c0000e17475be_0|1cce07564d1c000036528de9_0|075610ff4d1d0000322c907a_0|10ff0f644d2200004438f126_0|10ff0f644d2200004438f126_1",
+            "flyFrom": "STN",
+            "flyTo": "KUL",
+            "cityFrom": "London",
+            "cityCodeFrom": "LON",
+            "cityTo": "Kuala Lumpur",
+            "cityCodeTo": "KUL",
+            "countryFrom": {
+                "code": "GB",
+                "name": "United Kingdom"
+            },
+            "countryTo": {
+                "code": "MY",
+                "name": "Malaysia"
+            },
+            "nightsInDest": 5,
+            "quality": 1103.332355,
+            "distance": 10561.43,
+            "duration": {
+                "departure": 105000,
+                "return": 60300,
+                "total": 165300
+            },
+            "price": 712,
+            "conversion": {
+                "EUR": 712
+            },
+            "fare": {
+                "adults": 712,
+                "children": 712,
+                "infants": 712
+            },
+            "bags_price": {
+                "1": 186.425
+            },
+            "baglimit": {
+                "hand_height": 36,
+                "hand_length": 55,
+                "hand_weight": 7,
+                "hand_width": 20,
+                "hold_dimensions_sum": 158,
+                "hold_height": 52,
+                "hold_length": 78,
+                "hold_weight": 20,
+                "hold_width": 28
+            },
+            "availability": {
+                "seats": 9
+            },
+            "airlines": [
+                "FD",
+                "N0",
+                "SQ",
+                "RK"
+            ],
+            "route": [
+                {
+                    "id": "032d1cce4d1c0000e17475be_0",
+                    "combination_id": "032d1cce4d1c0000e17475be",
+                    "flyFrom": "STN",
+                    "flyTo": "OSL",
+                    "cityFrom": "London",
+                    "cityCodeFrom": "LON",
+                    "cityTo": "Oslo",
+                    "cityCodeTo": "OSL",
+                    "airline": "RK",
+                    "flight_no": 1392,
+                    "operating_carrier": "",
+                    "operating_flight_no": "",
+                    "fare_basis": "",
+                    "fare_category": "M",
+                    "fare_classes": "",
+                    "fare_family": "",
+                    "return": 0,
+                    "bags_recheck_required": false,
+                    "vi_connection": false,
+                    "guarantee": false,
+                    "equipment": null,
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2024-01-18T10:10:00.000Z",
+                    "utc_arrival": "2024-01-18T09:10:00.000Z",
+                    "local_departure": "2024-01-18T07:05:00.000Z",
+                    "utc_departure": "2024-01-18T07:05:00.000Z"
+                },
+                {
+                    "id": "1cce07564d1c000036528de9_0",
+                    "combination_id": "1cce07564d1c000036528de9",
+                    "flyFrom": "OSL",
+                    "flyTo": "BKK",
+                    "cityFrom": "Oslo",
+                    "cityCodeFrom": "OSL",
+                    "cityTo": "Bangkok",
+                    "cityCodeTo": "BKK",
+                    "airline": "N0",
+                    "flight_no": 91,
+                    "operating_carrier": "",
+                    "operating_flight_no": "",
+                    "fare_basis": "",
+                    "fare_category": "M",
+                    "fare_classes": "",
+                    "fare_family": "",
+                    "return": 0,
+                    "bags_recheck_required": true,
+                    "vi_connection": true,
+                    "guarantee": true,
+                    "equipment": null,
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2024-01-19T10:15:00.000Z",
+                    "utc_arrival": "2024-01-19T03:15:00.000Z",
+                    "local_departure": "2024-01-18T16:10:00.000Z",
+                    "utc_departure": "2024-01-18T15:10:00.000Z"
+                },
+                {
+                    "id": "075610ff4d1d0000322c907a_0",
+                    "combination_id": "075610ff4d1d0000322c907a",
+                    "flyFrom": "BKK",
+                    "flyTo": "KUL",
+                    "cityFrom": "Bangkok",
+                    "cityCodeFrom": "BKK",
+                    "cityTo": "Kuala Lumpur",
+                    "cityCodeTo": "KUL",
+                    "airline": "FD",
+                    "flight_no": 419,
+                    "operating_carrier": "FD",
+                    "operating_flight_no": "419",
+                    "fare_basis": "K02H21",
+                    "fare_category": "M",
+                    "fare_classes": "K",
+                    "fare_family": "",
+                    "return": 0,
+                    "bags_recheck_required": true,
+                    "vi_connection": true,
+                    "guarantee": true,
+                    "equipment": null,
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2024-01-19T20:15:00.000Z",
+                    "utc_arrival": "2024-01-19T12:15:00.000Z",
+                    "local_departure": "2024-01-19T17:10:00.000Z",
+                    "utc_departure": "2024-01-19T10:10:00.000Z"
+                },
+                {
+                    "id": "10ff0f644d2200004438f126_0",
+                    "combination_id": "10ff0f644d2200004438f126",
+                    "flyFrom": "KUL",
+                    "flyTo": "SIN",
+                    "cityFrom": "Kuala Lumpur",
+                    "cityCodeFrom": "KUL",
+                    "cityTo": "Singapore",
+                    "cityCodeTo": "SIN",
+                    "airline": "SQ",
+                    "flight_no": 105,
+                    "operating_carrier": "SQ",
+                    "operating_flight_no": "105",
+                    "fare_basis": "KT5MYO25",
+                    "fare_category": "M",
+                    "fare_classes": "K",
+                    "fare_family": "",
+                    "return": 1,
+                    "bags_recheck_required": false,
+                    "vi_connection": false,
+                    "guarantee": false,
+                    "equipment": null,
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2024-01-24T11:35:00.000Z",
+                    "utc_arrival": "2024-01-24T03:35:00.000Z",
+                    "local_departure": "2024-01-24T10:25:00.000Z",
+                    "utc_departure": "2024-01-24T02:25:00.000Z"
+                },
+                {
+                    "id": "10ff0f644d2200004438f126_1",
+                    "combination_id": "10ff0f644d2200004438f126",
+                    "flyFrom": "SIN",
+                    "flyTo": "LHR",
+                    "cityFrom": "Singapore",
+                    "cityCodeFrom": "SIN",
+                    "cityTo": "London",
+                    "cityCodeTo": "LON",
+                    "airline": "SQ",
+                    "flight_no": 318,
+                    "operating_carrier": "SQ",
+                    "operating_flight_no": "318",
+                    "fare_basis": "KT5MYO25",
+                    "fare_category": "M",
+                    "fare_classes": "K",
+                    "fare_family": "",
+                    "return": 1,
+                    "bags_recheck_required": false,
+                    "vi_connection": false,
+                    "guarantee": false,
+                    "equipment": null,
+                    "vehicle_type": "aircraft",
+                    "local_arrival": "2024-01-24T19:10:00.000Z",
+                    "utc_arrival": "2024-01-24T19:10:00.000Z",
+                    "local_departure": "2024-01-24T12:45:00.000Z",
+                    "utc_departure": "2024-01-24T04:45:00.000Z"
+                }
+            ],
+            "booking_token": "G8wDNXtUk8dkoiHMUXWL5gmq0IFbUGikMvw-BgKMtMTYS2HCyVwmneaWmW5td6qiUvSbiPik0shF_6aDe08JvhK70Qbnyvf2sN-rOf03kQvhKrRDp7DSSCCbue5rCU4g-4ImewayfCgLwpvvq7dkBCrRMMmGUboc6oND4sLls2wZmqiIOzirW7xgWy5oMF541V1F_K8cPba_HzCFr9vkjyNddtpOhNbHnhLC5HSuRWRQLjNAgsfa9uVksINekUFRJjq3WJTQKiNOt0Oki0xxwZRcs70Odk6X4iM4eDosPyMNTpMWWLpANZzE0RzsCiaYws1vJz_yB6jik7OCNgN6NQPyQazqW21p-czxM5G3FyFC4O3lrul4u-oy5CzpgETxBUa6KSLcSGvzpx4vTBnZYURbn2qxxJXU71WJOiLTm_RyuwMkORQmliv2kz4YH7KejVr7RedKfeF8KaM_CAZKcmo2gkP9qOnaYM6SijlWyR4tGFprTSgRBxN-jCjL85dYaN6z733Pk57xCE0eyvc7TKiA4MklC4Qohnzyntp7JnlPbHtlXw0PTY2SyXEXKJs84I4uHKuGhN8qdLPROHD-F66rhlckHHXqZCRs1A-sHB0yOqkr6RgatTPQkgPCjkFg2maVqwknu94IxoE8gGydBjW1ellOEu32IRkFx4MXNAL9VH6Jy4N4XWvTQz02XHPiNgOovCjg3v2D6_itD0q1z6eyjrib7rL_d-ieQEJ4SBKM=",
+            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=032d1cce4d1c0000e17475be_0%7C1cce07564d1c000036528de9_0%7C075610ff4d1d0000322c907a_0%7C10ff0f644d2200004438f126_0%7C10ff0f644d2200004438f126_1&from=STN&lang=en&passengers=1&to=KUL&booking_token=G8wDNXtUk8dkoiHMUXWL5gmq0IFbUGikMvw-BgKMtMTYS2HCyVwmneaWmW5td6qiUvSbiPik0shF_6aDe08JvhK70Qbnyvf2sN-rOf03kQvhKrRDp7DSSCCbue5rCU4g-4ImewayfCgLwpvvq7dkBCrRMMmGUboc6oND4sLls2wZmqiIOzirW7xgWy5oMF541V1F_K8cPba_HzCFr9vkjyNddtpOhNbHnhLC5HSuRWRQLjNAgsfa9uVksINekUFRJjq3WJTQKiNOt0Oki0xxwZRcs70Odk6X4iM4eDosPyMNTpMWWLpANZzE0RzsCiaYws1vJz_yB6jik7OCNgN6NQPyQazqW21p-czxM5G3FyFC4O3lrul4u-oy5CzpgETxBUa6KSLcSGvzpx4vTBnZYURbn2qxxJXU71WJOiLTm_RyuwMkORQmliv2kz4YH7KejVr7RedKfeF8KaM_CAZKcmo2gkP9qOnaYM6SijlWyR4tGFprTSgRBxN-jCjL85dYaN6z733Pk57xCE0eyvc7TKiA4MklC4Qohnzyntp7JnlPbHtlXw0PTY2SyXEXKJs84I4uHKuGhN8qdLPROHD-F66rhlckHHXqZCRs1A-sHB0yOqkr6RgatTPQkgPCjkFg2maVqwknu94IxoE8gGydBjW1ellOEu32IRkFx4MXNAL9VH6Jy4N4XWvTQz02XHPiNgOovCjg3v2D6_itD0q1z6eyjrib7rL_d-ieQEJ4SBKM=",
+            "facilitated_booking_available": true,
+            "pnr_count": 4,
+            "has_airport_change": false,
+            "technical_stops": 0,
+            "throw_away_ticketing": false,
+            "hidden_city_ticketing": false,
+            "virtual_interlining": true,
+            "local_arrival": "2024-01-19T20:15:00.000Z",
+            "utc_arrival": "2024-01-19T12:15:00.000Z",
+            "local_departure": "2024-01-18T07:05:00.000Z",
+            "utc_departure": "2024-01-18T07:05:00.000Z"
+        },
+        {
+            "id": "0f6407c74c8f4c9d3f7cee75_0|0f6407c74c8f4c9d3f7cee75_1|0f6407c74c8f4c9d3f7cee75_2|0f6407c74c8f4c9d3f7cee75_3",
             "flyFrom": "LHR",
             "flyTo": "CPT",
             "cityFrom": "London",
@@ -667,25 +878,25 @@
                 "code": "ZA",
                 "name": "South Africa"
             },
-            "nightsInDest": 3,
-            "quality": 1047.99936,
+            "nightsInDest": 14,
+            "quality": 1085.999175,
             "distance": 9692.25,
             "duration": {
                 "departure": 52500,
-                "return": 51900,
-                "total": 104400
+                "return": 85200,
+                "total": 137700
             },
-            "price": 792,
+            "price": 756,
             "conversion": {
-                "EUR": 792
+                "EUR": 756
             },
             "fare": {
-                "adults": 792,
-                "children": 792,
-                "infants": 792
+                "adults": 756,
+                "children": 756,
+                "infants": 756
             },
             "bags_price": {
-                "1": 122.97
+                "1": 124.515
             },
             "baglimit": {
                 "hand_height": 40,
@@ -703,15 +914,15 @@
                 "personal_item_width": 10
             },
             "availability": {
-                "seats": 3
+                "seats": 4
             },
             "airlines": [
                 "LX"
             ],
             "route": [
                 {
-                    "id": "0f6407c74c9a0000a59bc097_0",
-                    "combination_id": "0f6407c74c9a0000a59bc097",
+                    "id": "0f6407c74c8f4c9d3f7cee75_0",
+                    "combination_id": "0f6407c74c8f4c9d3f7cee75",
                     "flyFrom": "LHR",
                     "flyTo": "ZRH",
                     "cityFrom": "London",
@@ -722,7 +933,7 @@
                     "flight_no": 345,
                     "operating_carrier": "LX",
                     "operating_flight_no": "345",
-                    "fare_basis": "T5DWLQ",
+                    "fare_basis": "TNCGB",
                     "fare_category": "M",
                     "fare_classes": "T",
                     "fare_family": "",
@@ -732,14 +943,14 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-09-10T08:40:00.000Z",
-                    "utc_arrival": "2023-09-10T06:40:00.000Z",
-                    "local_departure": "2023-09-10T06:00:00.000Z",
-                    "utc_departure": "2023-09-10T05:00:00.000Z"
+                    "local_arrival": "2023-08-30T08:40:00.000Z",
+                    "utc_arrival": "2023-08-30T06:40:00.000Z",
+                    "local_departure": "2023-08-30T06:00:00.000Z",
+                    "utc_departure": "2023-08-30T05:00:00.000Z"
                 },
                 {
-                    "id": "0f6407c74c9a0000a59bc097_1",
-                    "combination_id": "0f6407c74c9a0000a59bc097",
+                    "id": "0f6407c74c8f4c9d3f7cee75_1",
+                    "combination_id": "0f6407c74c8f4c9d3f7cee75",
                     "flyFrom": "ZRH",
                     "flyTo": "CPT",
                     "cityFrom": "Z\u00fcrich",
@@ -750,7 +961,7 @@
                     "flight_no": 8086,
                     "operating_carrier": "WK",
                     "operating_flight_no": "",
-                    "fare_basis": "T5DWLQ",
+                    "fare_basis": "TNCGB",
                     "fare_category": "M",
                     "fare_classes": "T",
                     "fare_family": "",
@@ -760,14 +971,14 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-09-10T21:35:00.000Z",
-                    "utc_arrival": "2023-09-10T19:35:00.000Z",
-                    "local_departure": "2023-09-10T10:10:00.000Z",
-                    "utc_departure": "2023-09-10T08:10:00.000Z"
+                    "local_arrival": "2023-08-30T21:35:00.000Z",
+                    "utc_arrival": "2023-08-30T19:35:00.000Z",
+                    "local_departure": "2023-08-30T10:10:00.000Z",
+                    "utc_departure": "2023-08-30T08:10:00.000Z"
                 },
                 {
-                    "id": "07c725994c9d00007522f4e4_0",
-                    "combination_id": "07c725994c9d00007522f4e4",
+                    "id": "0f6407c74c8f4c9d3f7cee75_2",
+                    "combination_id": "0f6407c74c8f4c9d3f7cee75",
                     "flyFrom": "CPT",
                     "flyTo": "ZRH",
                     "cityFrom": "Cape Town",
@@ -778,9 +989,9 @@
                     "flight_no": 8087,
                     "operating_carrier": "WK",
                     "operating_flight_no": "",
-                    "fare_basis": "Q03DWLQ",
+                    "fare_basis": "VNCGB",
                     "fare_category": "M",
-                    "fare_classes": "Q",
+                    "fare_classes": "V",
                     "fare_family": "",
                     "return": 1,
                     "bags_recheck_required": false,
@@ -794,21 +1005,21 @@
                     "utc_departure": "2023-09-13T21:05:00.000Z"
                 },
                 {
-                    "id": "07c725994c9d00007522f4e4_1",
-                    "combination_id": "07c725994c9d00007522f4e4",
+                    "id": "0f6407c74c8f4c9d3f7cee75_3",
+                    "combination_id": "0f6407c74c8f4c9d3f7cee75",
                     "flyFrom": "ZRH",
-                    "flyTo": "LCY",
+                    "flyTo": "LHR",
                     "cityFrom": "Z\u00fcrich",
                     "cityCodeFrom": "ZRH",
                     "cityTo": "London",
                     "cityCodeTo": "LON",
                     "airline": "LX",
-                    "flight_no": 456,
-                    "operating_carrier": "2L",
-                    "operating_flight_no": "",
-                    "fare_basis": "Q03DWLQ",
+                    "flight_no": 340,
+                    "operating_carrier": "LX",
+                    "operating_flight_no": "340",
+                    "fare_basis": "VNCGB",
                     "fare_category": "M",
-                    "fare_classes": "Q",
+                    "fare_classes": "V",
                     "fare_family": "",
                     "return": 1,
                     "bags_recheck_required": false,
@@ -816,210 +1027,28 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-09-14T12:30:00.000Z",
-                    "utc_arrival": "2023-09-14T11:30:00.000Z",
-                    "local_departure": "2023-09-14T11:50:00.000Z",
-                    "utc_departure": "2023-09-14T09:50:00.000Z"
+                    "local_arrival": "2023-09-14T21:45:00.000Z",
+                    "utc_arrival": "2023-09-14T20:45:00.000Z",
+                    "local_departure": "2023-09-14T20:55:00.000Z",
+                    "utc_departure": "2023-09-14T18:55:00.000Z"
                 }
             ],
-            "booking_token": "GqUZRZZy99rTk2_cUvBXwAdt2KLERMTKK4W5J8c6kXQhWmGHo8zITUSWP6_ZB6qruFrAuPlll_ze9WsFM7_7cN6JWmWma_72gkuh66O8amLlzJOgMJ5wj11jR-tf90TAWnXZtfDmqFNDWwZA8R1sJKGwmV8g6zyhLGsDkKG1HPJHUyNAOKkHGeEB8k4VcXjkmskHuStrJThM71IqwQjfz3OVRG2PZJgAGCBseXGXGWeRHQBr8SyOqhnOsDekukGu8pEdhdAdw-POwYFQN5KyI6rPK_2DkJiWtjTprn36OTarbhM2GSHa6vIxZASaYk37qiIzqdph22N2CpALmpoG3nFfdEJCJPV8vxxetrTDOX1d9wJ0FMxRit7X-Hf2wAXLk793RiglixlNThz3bTV1XvY-aYUqdzwIiyejbQOKNL8IDfCc4WSBolSrD1H1pwRfCcS4VBAQx5cBmMUwuvUKPNFJvhsUaiC1Hkt-XEvabFYRQr4e82la6_YQPlu4RgsdAfdKhCR2wlRE9hk_TKDOSdK56K9teUXysfzBtoKYwnJfX1QYnX6995ROuLVD0ZSrJsrqv9Q8OOSfNx81_deIaFeT63iLd4NAsLRikj--epUI=",
-            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=0f6407c74c9a0000a59bc097_0%7C0f6407c74c9a0000a59bc097_1%7C07c725994c9d00007522f4e4_0%7C07c725994c9d00007522f4e4_1&from=LHR&lang=en&passengers=1&to=CPT&booking_token=GqUZRZZy99rTk2_cUvBXwAdt2KLERMTKK4W5J8c6kXQhWmGHo8zITUSWP6_ZB6qruFrAuPlll_ze9WsFM7_7cN6JWmWma_72gkuh66O8amLlzJOgMJ5wj11jR-tf90TAWnXZtfDmqFNDWwZA8R1sJKGwmV8g6zyhLGsDkKG1HPJHUyNAOKkHGeEB8k4VcXjkmskHuStrJThM71IqwQjfz3OVRG2PZJgAGCBseXGXGWeRHQBr8SyOqhnOsDekukGu8pEdhdAdw-POwYFQN5KyI6rPK_2DkJiWtjTprn36OTarbhM2GSHa6vIxZASaYk37qiIzqdph22N2CpALmpoG3nFfdEJCJPV8vxxetrTDOX1d9wJ0FMxRit7X-Hf2wAXLk793RiglixlNThz3bTV1XvY-aYUqdzwIiyejbQOKNL8IDfCc4WSBolSrD1H1pwRfCcS4VBAQx5cBmMUwuvUKPNFJvhsUaiC1Hkt-XEvabFYRQr4e82la6_YQPlu4RgsdAfdKhCR2wlRE9hk_TKDOSdK56K9teUXysfzBtoKYwnJfX1QYnX6995ROuLVD0ZSrJsrqv9Q8OOSfNx81_deIaFeT63iLd4NAsLRikj--epUI=",
+            "booking_token": "Gwq6KTcM_Jx940hv4UOnrPR7llMFHE9hgzG6EpZpm9N6VQtLRfQHWnqI8JQgalb8TQKD3xq-Cl1FQz8RobqXNaxKSUBZfCMQAlUCqSo5qDJ54SCvhl7ujoZjsvPwWCYC5yAR2GSwYFbQttSCMVKNMnBB5Bkt1VSCDY0oUxWnUD08nOJTx86KFH2FCyXCZgZocnoGhciHetmEe1lCoxA4242UnfvQIJf_73jcufKt1fe8fT92sFrzRgBkq1h-LdmJEpJlq1LfslQoNn7eaAycm5muSOs-hoQLWbodv6pufv7LWQl6hnU23I5tFMVWRljTZZeC_Kwg8YtRo4S6bg8gfBdDU3irEWIsPkzs5ZQdY3kQ1S52xItSUZoaUWci_omBz1sKY3Q1eK6jsWjuU7Fk8N_s1zWdfytOBBnK2qkhwkuhk2l9kG0NjvxaEWSUMVz6Q0SMx1Ol2RktKMZTip0loVmWOedA1OtLg9tLgFyMaTwTSnAbepcFvK7oSH_JWdxGC",
+            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=0f6407c74c8f4c9d3f7cee75_0%7C0f6407c74c8f4c9d3f7cee75_1%7C0f6407c74c8f4c9d3f7cee75_2%7C0f6407c74c8f4c9d3f7cee75_3&from=LHR&lang=en&passengers=1&to=CPT&booking_token=Gwq6KTcM_Jx940hv4UOnrPR7llMFHE9hgzG6EpZpm9N6VQtLRfQHWnqI8JQgalb8TQKD3xq-Cl1FQz8RobqXNaxKSUBZfCMQAlUCqSo5qDJ54SCvhl7ujoZjsvPwWCYC5yAR2GSwYFbQttSCMVKNMnBB5Bkt1VSCDY0oUxWnUD08nOJTx86KFH2FCyXCZgZocnoGhciHetmEe1lCoxA4242UnfvQIJf_73jcufKt1fe8fT92sFrzRgBkq1h-LdmJEpJlq1LfslQoNn7eaAycm5muSOs-hoQLWbodv6pufv7LWQl6hnU23I5tFMVWRljTZZeC_Kwg8YtRo4S6bg8gfBdDU3irEWIsPkzs5ZQdY3kQ1S52xItSUZoaUWci_omBz1sKY3Q1eK6jsWjuU7Fk8N_s1zWdfytOBBnK2qkhwkuhk2l9kG0NjvxaEWSUMVz6Q0SMx1Ol2RktKMZTip0loVmWOedA1OtLg9tLgFyMaTwTSnAbepcFvK7oSH_JWdxGC",
             "facilitated_booking_available": true,
-            "pnr_count": 2,
+            "pnr_count": 1,
             "has_airport_change": false,
             "technical_stops": 0,
             "throw_away_ticketing": false,
             "hidden_city_ticketing": false,
             "virtual_interlining": false,
-            "local_arrival": "2023-09-10T21:35:00.000Z",
-            "utc_arrival": "2023-09-10T19:35:00.000Z",
-            "local_departure": "2023-09-10T06:00:00.000Z",
-            "utc_departure": "2023-09-10T05:00:00.000Z"
+            "local_arrival": "2023-08-30T21:35:00.000Z",
+            "utc_arrival": "2023-08-30T19:35:00.000Z",
+            "local_departure": "2023-08-30T06:00:00.000Z",
+            "utc_departure": "2023-08-30T05:00:00.000Z"
         },
         {
-            "id": "0f6410ff4caa00003f1b4870_0|0f6410ff4caa00003f1b4870_1|10ff0f644cb7000039fd8fa5_0|10ff0f644cb7000039fd8fa5_1",
-            "flyFrom": "LHR",
-            "flyTo": "KUL",
-            "cityFrom": "London",
-            "cityCodeFrom": "LON",
-            "cityTo": "Kuala Lumpur",
-            "cityCodeTo": "KUL",
-            "countryFrom": {
-                "code": "GB",
-                "name": "United Kingdom"
-            },
-            "countryTo": {
-                "code": "MY",
-                "name": "Malaysia"
-            },
-            "nightsInDest": 12,
-            "quality": 1126.33259,
-            "distance": 10617.27,
-            "duration": {
-                "departure": 66000,
-                "return": 57000,
-                "total": 123000
-            },
-            "price": 829,
-            "conversion": {
-                "EUR": 829
-            },
-            "fare": {
-                "adults": 829,
-                "children": 829,
-                "infants": 829
-            },
-            "bags_price": {
-                "1": 0
-            },
-            "baglimit": {
-                "hand_height": 36,
-                "hand_length": 56,
-                "hand_weight": 7,
-                "hand_width": 23,
-                "hold_dimensions_sum": 158,
-                "hold_height": 52,
-                "hold_length": 78,
-                "hold_weight": 23,
-                "hold_width": 28
-            },
-            "availability": {
-                "seats": 9
-            },
-            "airlines": [
-                "SQ",
-                "EY"
-            ],
-            "route": [
-                {
-                    "id": "0f6410ff4caa00003f1b4870_0",
-                    "combination_id": "0f6410ff4caa00003f1b4870",
-                    "flyFrom": "LHR",
-                    "flyTo": "AUH",
-                    "cityFrom": "London",
-                    "cityCodeFrom": "LON",
-                    "cityTo": "Abu Dhabi",
-                    "cityCodeTo": "AUH",
-                    "airline": "EY",
-                    "flight_no": 12,
-                    "operating_carrier": "EY",
-                    "operating_flight_no": "12",
-                    "fare_basis": "ULN10V2R",
-                    "fare_category": "M",
-                    "fare_classes": "",
-                    "fare_family": "",
-                    "return": 0,
-                    "bags_recheck_required": false,
-                    "vi_connection": false,
-                    "guarantee": false,
-                    "equipment": null,
-                    "vehicle_type": "aircraft",
-                    "local_arrival": "2023-09-26T19:35:00.000Z",
-                    "utc_arrival": "2023-09-26T15:35:00.000Z",
-                    "local_departure": "2023-09-26T09:30:00.000Z",
-                    "utc_departure": "2023-09-26T08:30:00.000Z"
-                },
-                {
-                    "id": "0f6410ff4caa00003f1b4870_1",
-                    "combination_id": "0f6410ff4caa00003f1b4870",
-                    "flyFrom": "AUH",
-                    "flyTo": "KUL",
-                    "cityFrom": "Abu Dhabi",
-                    "cityCodeFrom": "AUH",
-                    "cityTo": "Kuala Lumpur",
-                    "cityCodeTo": "KUL",
-                    "airline": "EY",
-                    "flight_no": 418,
-                    "operating_carrier": "EY",
-                    "operating_flight_no": "418",
-                    "fare_basis": "ULN10V2R",
-                    "fare_category": "M",
-                    "fare_classes": "",
-                    "fare_family": "",
-                    "return": 0,
-                    "bags_recheck_required": false,
-                    "vi_connection": false,
-                    "guarantee": false,
-                    "equipment": null,
-                    "vehicle_type": "aircraft",
-                    "local_arrival": "2023-09-27T10:50:00.000Z",
-                    "utc_arrival": "2023-09-27T02:50:00.000Z",
-                    "local_departure": "2023-09-26T23:35:00.000Z",
-                    "utc_departure": "2023-09-26T19:35:00.000Z"
-                },
-                {
-                    "id": "10ff0f644cb7000039fd8fa5_0",
-                    "combination_id": "10ff0f644cb7000039fd8fa5",
-                    "flyFrom": "KUL",
-                    "flyTo": "SIN",
-                    "cityFrom": "Kuala Lumpur",
-                    "cityCodeFrom": "KUL",
-                    "cityTo": "Singapore",
-                    "cityCodeTo": "SIN",
-                    "airline": "SQ",
-                    "flight_no": 105,
-                    "operating_carrier": "SQ",
-                    "operating_flight_no": "105",
-                    "fare_basis": "K95MYOD1",
-                    "fare_category": "M",
-                    "fare_classes": "K",
-                    "fare_family": "",
-                    "return": 1,
-                    "bags_recheck_required": false,
-                    "vi_connection": false,
-                    "guarantee": false,
-                    "equipment": null,
-                    "vehicle_type": "aircraft",
-                    "local_arrival": "2023-10-09T11:35:00.000Z",
-                    "utc_arrival": "2023-10-09T03:35:00.000Z",
-                    "local_departure": "2023-10-09T10:25:00.000Z",
-                    "utc_departure": "2023-10-09T02:25:00.000Z"
-                },
-                {
-                    "id": "10ff0f644cb7000039fd8fa5_1",
-                    "combination_id": "10ff0f644cb7000039fd8fa5",
-                    "flyFrom": "SIN",
-                    "flyTo": "LHR",
-                    "cityFrom": "Singapore",
-                    "cityCodeFrom": "SIN",
-                    "cityTo": "London",
-                    "cityCodeTo": "LON",
-                    "airline": "SQ",
-                    "flight_no": 318,
-                    "operating_carrier": "SQ",
-                    "operating_flight_no": "318",
-                    "fare_basis": "K95MYOD1",
-                    "fare_category": "M",
-                    "fare_classes": "K",
-                    "fare_family": "",
-                    "return": 1,
-                    "bags_recheck_required": false,
-                    "vi_connection": false,
-                    "guarantee": false,
-                    "equipment": null,
-                    "vehicle_type": "aircraft",
-                    "local_arrival": "2023-10-09T19:15:00.000Z",
-                    "utc_arrival": "2023-10-09T18:15:00.000Z",
-                    "local_departure": "2023-10-09T12:35:00.000Z",
-                    "utc_departure": "2023-10-09T04:35:00.000Z"
-                }
-            ],
-            "booking_token": "Gc8VxDKLUAhBsVeGJOgy2V3HQnzHR4wA88oFWQxzrFQMoNSG1a8AjbI9BrINSMKGJrU3YDRoaNGDBZki1zIyUrM8nznuewsSg0cp0LBpwk7sUBXG3zM05JewS3e95Mrltmkpkq1Scw9KVSj7aMGGQbMk8UvTiXS0Jw1NQADttxq2ica1X_nqPRpLHlzVFlcRuYgVa1BbMnRZMJmPW6DQ0kcoHMn5gFV5Tay1kG5pp1Rmh10BkDa6drrO2I4OYAwUZiXqVlr6CdYHwEUJKDs9j47XMs0pifRfW5-5S953N1jCWvVms5iNrbFrAuSDP0OK390swf8QjliZy3QIeUWIIEOoSiOFUmBcOzRHupDuepafUr_zPZjxAfwt9jsTFg_GcClZEd_-MyRSh7_QxsXHtHeQdg8x4qTQeNeP_jQX93tqmG8Yt6TtU8MLkCqceEylBmHgJJ_SPGtpm7jscYPdyXDIdk-nmy1oO552QUBahCk90RFppVCB-uLUxaULx9SLE6rwTXkCZ3cRARAYPRKBZyIb9VWLoxolDTEpyU-0mQRmbuFvJR-3TU_-ij8VGpk7VG5rMgMiMiJt07_HBdcHHnLszO7ymjXFOlEOuKRrSyrmcLuiLdlQpQh-Nm_Dm3uNw",
-            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=0f6410ff4caa00003f1b4870_0%7C0f6410ff4caa00003f1b4870_1%7C10ff0f644cb7000039fd8fa5_0%7C10ff0f644cb7000039fd8fa5_1&from=LHR&lang=en&passengers=1&to=KUL&booking_token=Gc8VxDKLUAhBsVeGJOgy2V3HQnzHR4wA88oFWQxzrFQMoNSG1a8AjbI9BrINSMKGJrU3YDRoaNGDBZki1zIyUrM8nznuewsSg0cp0LBpwk7sUBXG3zM05JewS3e95Mrltmkpkq1Scw9KVSj7aMGGQbMk8UvTiXS0Jw1NQADttxq2ica1X_nqPRpLHlzVFlcRuYgVa1BbMnRZMJmPW6DQ0kcoHMn5gFV5Tay1kG5pp1Rmh10BkDa6drrO2I4OYAwUZiXqVlr6CdYHwEUJKDs9j47XMs0pifRfW5-5S953N1jCWvVms5iNrbFrAuSDP0OK390swf8QjliZy3QIeUWIIEOoSiOFUmBcOzRHupDuepafUr_zPZjxAfwt9jsTFg_GcClZEd_-MyRSh7_QxsXHtHeQdg8x4qTQeNeP_jQX93tqmG8Yt6TtU8MLkCqceEylBmHgJJ_SPGtpm7jscYPdyXDIdk-nmy1oO552QUBahCk90RFppVCB-uLUxaULx9SLE6rwTXkCZ3cRARAYPRKBZyIb9VWLoxolDTEpyU-0mQRmbuFvJR-3TU_-ij8VGpk7VG5rMgMiMiJt07_HBdcHHnLszO7ymjXFOlEOuKRrSyrmcLuiLdlQpQh-Nm_Dm3uNw",
-            "facilitated_booking_available": true,
-            "pnr_count": 2,
-            "has_airport_change": false,
-            "technical_stops": 0,
-            "throw_away_ticketing": false,
-            "hidden_city_ticketing": false,
-            "virtual_interlining": false,
-            "local_arrival": "2023-09-27T10:50:00.000Z",
-            "utc_arrival": "2023-09-27T02:50:00.000Z",
-            "local_departure": "2023-09-26T09:30:00.000Z",
-            "utc_departure": "2023-09-26T08:30:00.000Z"
-        },
-        {
-            "id": "22f5209f4cc50000cd531d9f_0|22f5209f4cc50000cd531d9f_1|097b0f644cd40000000195fb_0|097b0f644cd40000000195fb_1",
+            "id": "22f5209f4cc70000c02003e7_0|22f5209f4cc70000c02003e7_1|097b0f644cd60000d18c55bd_0|097b0f644cd60000d18c55bd_1",
             "flyFrom": "LGW",
             "flyTo": "NRT",
             "cityFrom": "London",
@@ -1035,24 +1064,24 @@
                 "name": "Japan"
             },
             "nightsInDest": 14,
-            "quality": 1334.332455,
+            "quality": 1337.66579,
             "distance": 9623.12,
             "duration": {
-                "departure": 62100,
+                "departure": 61800,
                 "return": 85200,
-                "total": 147300
+                "total": 147000
             },
-            "price": 983,
+            "price": 987,
             "conversion": {
-                "EUR": 983
+                "EUR": 987
             },
             "fare": {
-                "adults": 983,
-                "children": 983,
-                "infants": 983
+                "adults": 987,
+                "children": 987,
+                "infants": 987
             },
             "bags_price": {
-                "1": 209.27
+                "1": 207.455
             },
             "baglimit": {
                 "hand_height": 36,
@@ -1066,16 +1095,16 @@
                 "hold_width": 28
             },
             "availability": {
-                "seats": 6
+                "seats": 4
             },
             "airlines": [
-                "VN",
-                "MU"
+                "MU",
+                "VN"
             ],
             "route": [
                 {
-                    "id": "22f5209f4cc50000cd531d9f_0",
-                    "combination_id": "22f5209f4cc50000cd531d9f",
+                    "id": "22f5209f4cc70000c02003e7_0",
+                    "combination_id": "22f5209f4cc70000c02003e7",
                     "flyFrom": "LGW",
                     "flyTo": "PVG",
                     "cityFrom": "London",
@@ -1096,14 +1125,14 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-10-24T05:50:00.000Z",
-                    "utc_arrival": "2023-10-23T21:50:00.000Z",
-                    "local_departure": "2023-10-23T11:35:00.000Z",
-                    "utc_departure": "2023-10-23T10:35:00.000Z"
+                    "local_arrival": "2023-10-26T05:50:00.000Z",
+                    "utc_arrival": "2023-10-25T21:50:00.000Z",
+                    "local_departure": "2023-10-25T11:40:00.000Z",
+                    "utc_departure": "2023-10-25T10:40:00.000Z"
                 },
                 {
-                    "id": "22f5209f4cc50000cd531d9f_1",
-                    "combination_id": "22f5209f4cc50000cd531d9f",
+                    "id": "22f5209f4cc70000c02003e7_1",
+                    "combination_id": "22f5209f4cc70000c02003e7",
                     "flyFrom": "PVG",
                     "flyTo": "NRT",
                     "cityFrom": "Shanghai",
@@ -1124,14 +1153,14 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-10-24T12:50:00.000Z",
-                    "utc_arrival": "2023-10-24T03:50:00.000Z",
-                    "local_departure": "2023-10-24T09:05:00.000Z",
-                    "utc_departure": "2023-10-24T01:05:00.000Z"
+                    "local_arrival": "2023-10-26T12:50:00.000Z",
+                    "utc_arrival": "2023-10-26T03:50:00.000Z",
+                    "local_departure": "2023-10-26T09:05:00.000Z",
+                    "utc_departure": "2023-10-26T01:05:00.000Z"
                 },
                 {
-                    "id": "097b0f644cd40000000195fb_0",
-                    "combination_id": "097b0f644cd40000000195fb",
+                    "id": "097b0f644cd60000d18c55bd_0",
+                    "combination_id": "097b0f644cd60000d18c55bd",
                     "flyFrom": "HND",
                     "flyTo": "HAN",
                     "cityFrom": "Tokyo",
@@ -1142,7 +1171,7 @@
                     "flight_no": 385,
                     "operating_carrier": "VN",
                     "operating_flight_no": "385",
-                    "fare_basis": "ROP1JPWP",
+                    "fare_basis": "ROP1JPP",
                     "fare_category": "M",
                     "fare_classes": "R",
                     "fare_family": "",
@@ -1152,14 +1181,14 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-11-07T20:55:00.000Z",
-                    "utc_arrival": "2023-11-07T13:55:00.000Z",
-                    "local_departure": "2023-11-07T16:35:00.000Z",
-                    "utc_departure": "2023-11-07T07:35:00.000Z"
+                    "local_arrival": "2023-11-09T20:55:00.000Z",
+                    "utc_arrival": "2023-11-09T13:55:00.000Z",
+                    "local_departure": "2023-11-09T16:35:00.000Z",
+                    "utc_departure": "2023-11-09T07:35:00.000Z"
                 },
                 {
-                    "id": "097b0f644cd40000000195fb_1",
-                    "combination_id": "097b0f644cd40000000195fb",
+                    "id": "097b0f644cd60000d18c55bd_1",
+                    "combination_id": "097b0f644cd60000d18c55bd",
                     "flyFrom": "HAN",
                     "flyTo": "LHR",
                     "cityFrom": "Hanoi",
@@ -1170,7 +1199,7 @@
                     "flight_no": 55,
                     "operating_carrier": "VN",
                     "operating_flight_no": "55",
-                    "fare_basis": "ROP1JPWP",
+                    "fare_basis": "ROP1JPP",
                     "fare_category": "M",
                     "fare_classes": "N",
                     "fare_family": "",
@@ -1180,14 +1209,14 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-11-08T07:15:00.000Z",
-                    "utc_arrival": "2023-11-08T07:15:00.000Z",
-                    "local_departure": "2023-11-08T01:10:00.000Z",
-                    "utc_departure": "2023-11-07T18:10:00.000Z"
+                    "local_arrival": "2023-11-10T07:15:00.000Z",
+                    "utc_arrival": "2023-11-10T07:15:00.000Z",
+                    "local_departure": "2023-11-10T01:10:00.000Z",
+                    "utc_departure": "2023-11-09T18:10:00.000Z"
                 }
             ],
-            "booking_token": "G9JEy09I6eir0SBVn3cou1XSf6NysaH9RZcX54pSHHl2HyBPY_JOuJMczDKacrVxOF47F1YeV6DpVMIPYxfjzhLxYxUQqoOOWVGRBfRlVuzaMtpYIUD_SxtmqzqKZ2-6OLz_ZQNPpx6LRZOrAucITT4bpZc6WOuDoWrjWb2yNkj1_Q0Qy3e7ZelQIUhW4kVgkGcpcCCt9zAc1N7PW8kWE7TdIYII2aXe_1gAhtBR3pmKlH488ge4q0BdMOChceem7dlbukzqaeDZM467fV4Ul_1f-CFyXn8zTZQ5IWpW92dDCowjA--Ne83pAW4g7PTYOEP13_uw7XNkG1HxGUakGJtvxJV0sjngiKYboJtOeGnpr5HHT3aRr7XeDHFXn-ZjKwwtNregtG1GYa9otCaFepzgj90MfheBpewzFZVT6dn4x57D_IMdA9AFK6nRZlGzsS-jI4D0cFtSZtSonSEnrUlryVUmbLB-qxpB8OhmUwRTnLD1sQRcmdoGRmlFB2Z1PZ5pYxncl2DkFJcQNwG5jgOCBdI3yqnUWV9mhvc8fypLJ5OVlsylj8aZoVXYkPxZ-32kBXipGXT_r7d9QmQdQIMhb7BGiAffEuIoBTkpZFHLSWgJd1CXZke0e5qfsyawHUzOBNtiSHccb-ghqv-uEgjlSovVC0daGf22ye3aXUog=",
-            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=22f5209f4cc50000cd531d9f_0%7C22f5209f4cc50000cd531d9f_1%7C097b0f644cd40000000195fb_0%7C097b0f644cd40000000195fb_1&from=LGW&lang=en&passengers=1&to=NRT&booking_token=G9JEy09I6eir0SBVn3cou1XSf6NysaH9RZcX54pSHHl2HyBPY_JOuJMczDKacrVxOF47F1YeV6DpVMIPYxfjzhLxYxUQqoOOWVGRBfRlVuzaMtpYIUD_SxtmqzqKZ2-6OLz_ZQNPpx6LRZOrAucITT4bpZc6WOuDoWrjWb2yNkj1_Q0Qy3e7ZelQIUhW4kVgkGcpcCCt9zAc1N7PW8kWE7TdIYII2aXe_1gAhtBR3pmKlH488ge4q0BdMOChceem7dlbukzqaeDZM467fV4Ul_1f-CFyXn8zTZQ5IWpW92dDCowjA--Ne83pAW4g7PTYOEP13_uw7XNkG1HxGUakGJtvxJV0sjngiKYboJtOeGnpr5HHT3aRr7XeDHFXn-ZjKwwtNregtG1GYa9otCaFepzgj90MfheBpewzFZVT6dn4x57D_IMdA9AFK6nRZlGzsS-jI4D0cFtSZtSonSEnrUlryVUmbLB-qxpB8OhmUwRTnLD1sQRcmdoGRmlFB2Z1PZ5pYxncl2DkFJcQNwG5jgOCBdI3yqnUWV9mhvc8fypLJ5OVlsylj8aZoVXYkPxZ-32kBXipGXT_r7d9QmQdQIMhb7BGiAffEuIoBTkpZFHLSWgJd1CXZke0e5qfsyawHUzOBNtiSHccb-ghqv-uEgjlSovVC0daGf22ye3aXUog=",
+            "booking_token": "GipP3k8TyibYpqvp_hpNq4No1kN9ZNYnCYfdhVwThcUC6vxjQQCarn51O3gtVHV3WCKP0vXJ8Y5aUumUCNaRTQugBW5uX7ufpvakRpKs6HGwLGdttjIn0sRti2on06bR45nYVZM2E3WNmQiTgORh5sKdmwZTlerxtRtbTVU-3AJycdnWhTdx1q1SkMxcHtqaP6K9yh1m_5FQRRr6uU2yGRv74FvL-RKy6DrRluoIdxmF7wmZltnnsfRma8KkUwKHN7Vn8NQf1gsOwKBCBgMPoHIh5X4Mj02hfyBumiiwA-8AC2YB7i1zo91AwZNmTRyrt2dQdIaqvFo4gsTifHC3_7xEM4RsI80KMAEHa79UyV40Wnor5DzhFbr1g2ADR2OzDiYI-yT6E_cEmZniMK9fUi-vEDzXCMNJKHht8mmHKiesn0FsaGtQ1uNkWbx3z6e-Z6Ck2VxA_A6Ix5bPSsP7a-GseLmmcle6M49IoF7-5b4xHK2eOJkwZroEgiZhvY4flogk3TzfYijP57thZ3ot1qGRZHb4ZNuDnD-Ovh81qMj20gdT4bO-iKCcmyZUFjhb3jquEq0oIvf6b1979pGL17PgkPpaMwtV-Y4UC8lzjKC4=",
+            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=22f5209f4cc70000c02003e7_0%7C22f5209f4cc70000c02003e7_1%7C097b0f644cd60000d18c55bd_0%7C097b0f644cd60000d18c55bd_1&from=LGW&lang=en&passengers=1&to=NRT&booking_token=GipP3k8TyibYpqvp_hpNq4No1kN9ZNYnCYfdhVwThcUC6vxjQQCarn51O3gtVHV3WCKP0vXJ8Y5aUumUCNaRTQugBW5uX7ufpvakRpKs6HGwLGdttjIn0sRti2on06bR45nYVZM2E3WNmQiTgORh5sKdmwZTlerxtRtbTVU-3AJycdnWhTdx1q1SkMxcHtqaP6K9yh1m_5FQRRr6uU2yGRv74FvL-RKy6DrRluoIdxmF7wmZltnnsfRma8KkUwKHN7Vn8NQf1gsOwKBCBgMPoHIh5X4Mj02hfyBumiiwA-8AC2YB7i1zo91AwZNmTRyrt2dQdIaqvFo4gsTifHC3_7xEM4RsI80KMAEHa79UyV40Wnor5DzhFbr1g2ADR2OzDiYI-yT6E_cEmZniMK9fUi-vEDzXCMNJKHht8mmHKiesn0FsaGtQ1uNkWbx3z6e-Z6Ck2VxA_A6Ix5bPSsP7a-GseLmmcle6M49IoF7-5b4xHK2eOJkwZroEgiZhvY4flogk3TzfYijP57thZ3ot1qGRZHb4ZNuDnD-Ovh81qMj20gdT4bO-iKCcmyZUFjhb3jquEq0oIvf6b1979pGL17PgkPpaMwtV-Y4UC8lzjKC4=",
             "facilitated_booking_available": false,
             "pnr_count": 2,
             "has_airport_change": false,
@@ -1195,13 +1224,13 @@
             "throw_away_ticketing": false,
             "hidden_city_ticketing": false,
             "virtual_interlining": false,
-            "local_arrival": "2023-10-24T12:50:00.000Z",
-            "utc_arrival": "2023-10-24T03:50:00.000Z",
-            "local_departure": "2023-10-23T11:35:00.000Z",
-            "utc_departure": "2023-10-23T10:35:00.000Z"
+            "local_arrival": "2023-10-26T12:50:00.000Z",
+            "utc_arrival": "2023-10-26T03:50:00.000Z",
+            "local_departure": "2023-10-25T11:40:00.000Z",
+            "utc_departure": "2023-10-25T10:40:00.000Z"
         },
         {
-            "id": "0f6403724cbf0000a320aa35_0|0f6403724cbf0000a320aa35_1|03720f644ccc000032521d50_0|03720f644ccc000032521d50_1",
+            "id": "0f6403724c8d4c97a8d68a60_0|0f6403724c8d4c97a8d68a60_1|0f6403724c8d4c97a8d68a60_2|0f6403724c8d4c97a8d68a60_3",
             "flyFrom": "LHR",
             "flyTo": "SYD",
             "cityFrom": "London",
@@ -1216,31 +1245,31 @@
                 "code": "AU",
                 "name": "Australia"
             },
-            "nightsInDest": 11,
-            "quality": 1753.33223,
+            "nightsInDest": 8,
+            "quality": 1583.998835,
             "distance": 17038.96,
             "duration": {
-                "departure": 96000,
-                "return": 91800,
-                "total": 187800
+                "departure": 90900,
+                "return": 108000,
+                "total": 198900
             },
-            "price": 1312,
+            "price": 1118,
             "conversion": {
-                "EUR": 1312
+                "EUR": 1118
             },
             "fare": {
-                "adults": 1312,
-                "children": 1312,
-                "infants": 1312
+                "adults": 1118,
+                "children": 1118,
+                "infants": 1118
             },
             "bags_price": {
-                "1": 209.27
+                "1": 0
             },
             "baglimit": {
-                "hand_height": 36,
-                "hand_length": 56,
-                "hand_weight": 7,
-                "hand_width": 23,
+                "hand_height": 40,
+                "hand_length": 50,
+                "hand_weight": 5,
+                "hand_width": 25,
                 "hold_dimensions_sum": 158,
                 "hold_height": 52,
                 "hold_length": 78,
@@ -1248,29 +1277,28 @@
                 "hold_width": 28
             },
             "availability": {
-                "seats": 9
+                "seats": 8
             },
             "airlines": [
-                "EY",
-                "MU"
+                "CZ"
             ],
             "route": [
                 {
-                    "id": "0f6403724cbf0000a320aa35_0",
-                    "combination_id": "0f6403724cbf0000a320aa35",
+                    "id": "0f6403724c8d4c97a8d68a60_0",
+                    "combination_id": "0f6403724c8d4c97a8d68a60",
                     "flyFrom": "LHR",
-                    "flyTo": "PVG",
+                    "flyTo": "CAN",
                     "cityFrom": "London",
                     "cityCodeFrom": "LON",
-                    "cityTo": "Shanghai",
-                    "cityCodeTo": "SHA",
-                    "airline": "MU",
-                    "flight_no": 552,
-                    "operating_carrier": "MU",
-                    "operating_flight_no": "552",
-                    "fare_basis": "SL50BBSQ",
+                    "cityTo": "Guangzhou",
+                    "cityCodeTo": "CAN",
+                    "airline": "CZ",
+                    "flight_no": 304,
+                    "operating_carrier": "CZ",
+                    "operating_flight_no": "304",
+                    "fare_basis": "V2KSRYXA",
                     "fare_category": "M",
-                    "fare_classes": "S",
+                    "fare_classes": "V",
                     "fare_family": "",
                     "return": 0,
                     "bags_recheck_required": false,
@@ -1278,27 +1306,27 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-10-18T15:40:00.000Z",
-                    "utc_arrival": "2023-10-18T07:40:00.000Z",
-                    "local_departure": "2023-10-17T21:20:00.000Z",
-                    "utc_departure": "2023-10-17T20:20:00.000Z"
+                    "local_arrival": "2023-08-29T17:05:00.000Z",
+                    "utc_arrival": "2023-08-29T09:05:00.000Z",
+                    "local_departure": "2023-08-28T22:10:00.000Z",
+                    "utc_departure": "2023-08-28T21:10:00.000Z"
                 },
                 {
-                    "id": "0f6403724cbf0000a320aa35_1",
-                    "combination_id": "0f6403724cbf0000a320aa35",
-                    "flyFrom": "PVG",
+                    "id": "0f6403724c8d4c97a8d68a60_1",
+                    "combination_id": "0f6403724c8d4c97a8d68a60",
+                    "flyFrom": "CAN",
                     "flyTo": "SYD",
-                    "cityFrom": "Shanghai",
-                    "cityCodeFrom": "SHA",
+                    "cityFrom": "Guangzhou",
+                    "cityCodeFrom": "CAN",
                     "cityTo": "Sydney",
                     "cityCodeTo": "SYD",
-                    "airline": "MU",
-                    "flight_no": 561,
-                    "operating_carrier": "MU",
-                    "operating_flight_no": "561",
-                    "fare_basis": "SL50BBSQ",
+                    "airline": "CZ",
+                    "flight_no": 325,
+                    "operating_carrier": "CZ",
+                    "operating_flight_no": "325",
+                    "fare_basis": "V2KSRYXA",
                     "fare_category": "M",
-                    "fare_classes": "S",
+                    "fare_classes": "V",
                     "fare_family": "",
                     "return": 0,
                     "bags_recheck_required": false,
@@ -1306,27 +1334,27 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-10-19T10:00:00.000Z",
-                    "utc_arrival": "2023-10-18T23:00:00.000Z",
-                    "local_departure": "2023-10-18T20:45:00.000Z",
-                    "utc_departure": "2023-10-18T12:45:00.000Z"
+                    "local_arrival": "2023-08-30T08:25:00.000Z",
+                    "utc_arrival": "2023-08-29T22:25:00.000Z",
+                    "local_departure": "2023-08-29T20:55:00.000Z",
+                    "utc_departure": "2023-08-29T12:55:00.000Z"
                 },
                 {
-                    "id": "03720f644ccc000032521d50_0",
-                    "combination_id": "03720f644ccc000032521d50",
+                    "id": "0f6403724c8d4c97a8d68a60_2",
+                    "combination_id": "0f6403724c8d4c97a8d68a60",
                     "flyFrom": "SYD",
-                    "flyTo": "AUH",
+                    "flyTo": "CAN",
                     "cityFrom": "Sydney",
                     "cityCodeFrom": "SYD",
-                    "cityTo": "Abu Dhabi",
-                    "cityCodeTo": "AUH",
-                    "airline": "EY",
-                    "flight_no": 455,
-                    "operating_carrier": "EY",
-                    "operating_flight_no": "455",
-                    "fare_basis": "ENX00V5T",
+                    "cityTo": "Guangzhou",
+                    "cityCodeTo": "CAN",
+                    "airline": "CZ",
+                    "flight_no": 302,
+                    "operating_carrier": "CZ",
+                    "operating_flight_no": "302",
+                    "fare_basis": "Q2KSRYXA",
                     "fare_category": "M",
-                    "fare_classes": "E",
+                    "fare_classes": "Q",
                     "fare_family": "",
                     "return": 1,
                     "bags_recheck_required": false,
@@ -1334,27 +1362,27 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-10-31T05:05:00.000Z",
-                    "utc_arrival": "2023-10-31T01:05:00.000Z",
-                    "local_departure": "2023-10-30T21:30:00.000Z",
-                    "utc_departure": "2023-10-30T10:30:00.000Z"
+                    "local_arrival": "2023-09-08T05:25:00.000Z",
+                    "utc_arrival": "2023-09-07T21:25:00.000Z",
+                    "local_departure": "2023-09-07T21:45:00.000Z",
+                    "utc_departure": "2023-09-07T11:45:00.000Z"
                 },
                 {
-                    "id": "03720f644ccc000032521d50_1",
-                    "combination_id": "03720f644ccc000032521d50",
-                    "flyFrom": "AUH",
+                    "id": "0f6403724c8d4c97a8d68a60_3",
+                    "combination_id": "0f6403724c8d4c97a8d68a60",
+                    "flyFrom": "CAN",
                     "flyTo": "LHR",
-                    "cityFrom": "Abu Dhabi",
-                    "cityCodeFrom": "AUH",
+                    "cityFrom": "Guangzhou",
+                    "cityCodeFrom": "CAN",
                     "cityTo": "London",
                     "cityCodeTo": "LON",
-                    "airline": "EY",
-                    "flight_no": 19,
-                    "operating_carrier": "EY",
-                    "operating_flight_no": "19",
-                    "fare_basis": "ENX00V5T",
+                    "airline": "CZ",
+                    "flight_no": 303,
+                    "operating_carrier": "CZ",
+                    "operating_flight_no": "303",
+                    "fare_basis": "Q2KSRYXA",
                     "fare_category": "M",
-                    "fare_classes": "E",
+                    "fare_classes": "Q",
                     "fare_family": "",
                     "return": 1,
                     "bags_recheck_required": false,
@@ -1362,25 +1390,25 @@
                     "guarantee": false,
                     "equipment": null,
                     "vehicle_type": "aircraft",
-                    "local_arrival": "2023-10-31T12:00:00.000Z",
-                    "utc_arrival": "2023-10-31T12:00:00.000Z",
-                    "local_departure": "2023-10-31T08:20:00.000Z",
-                    "utc_departure": "2023-10-31T04:20:00.000Z"
+                    "local_arrival": "2023-09-08T18:45:00.000Z",
+                    "utc_arrival": "2023-09-08T17:45:00.000Z",
+                    "local_departure": "2023-09-08T13:20:00.000Z",
+                    "utc_departure": "2023-09-08T05:20:00.000Z"
                 }
             ],
-            "booking_token": "G_GsB2xMz0_ikfGBiWDKW83O45E8U0WK3zoCkXD4A4Ta97pdKm7VAnsN39KlWHN40rZgJ8WHYdPKOb5qaZB5-vbT_KgbO5P-AwXucJ2QQXik4GeoFnoBVs7HqSd3HM05thMwRTHJGE7U5jiC0rPzMoaNEvJRGM5397WGddNgBkHd4w0Ac32mQG1NROsVFd4udHMVgEH4i7zjgfq7nK8q25dUBpdMPzgyciJayADUW488gwsDZgLzWmf36YPsKzw8YiKMD6rh8FpSBvVn4bCb3yl5zC9QgXym7PV8vroVKi791DxcQT6e9aSNPDkn_g2OhufBfruRITRrBpzCCVD76nXuIeH5JYxLTRQe68T5FfAtmavV7jX2wvI5ax9Fu3MZ6U8_M78hNr2haMMWytUmpK7BjWC2Nk9JURYRS31iYB7ELkz7-8052LVsG_Ey55ZGoMDVs3d4i4y-ibkYdM8FOy6PMyUiWcN_oSwaLgtgS-7LXGMYwMdNmtcx5AWosQj-1fAGcFNoiGvWphVfuU1cq2KBI7CF2TpNH42OzHMbHEbFkvy5t42AKe9agp4kQZh-wb-1Yx8JZ71Lii_WS0RgQvMar6ghfD6iSkLgi8qCJkpU2W0FmisCklYNxTvMnal7vvtIXtBHXwb7yU_PANNCe9BVKHdT1WHy4EEjXwq7wE68=",
-            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=0f6403724cbf0000a320aa35_0%7C0f6403724cbf0000a320aa35_1%7C03720f644ccc000032521d50_0%7C03720f644ccc000032521d50_1&from=LHR&lang=en&passengers=1&to=SYD&booking_token=G_GsB2xMz0_ikfGBiWDKW83O45E8U0WK3zoCkXD4A4Ta97pdKm7VAnsN39KlWHN40rZgJ8WHYdPKOb5qaZB5-vbT_KgbO5P-AwXucJ2QQXik4GeoFnoBVs7HqSd3HM05thMwRTHJGE7U5jiC0rPzMoaNEvJRGM5397WGddNgBkHd4w0Ac32mQG1NROsVFd4udHMVgEH4i7zjgfq7nK8q25dUBpdMPzgyciJayADUW488gwsDZgLzWmf36YPsKzw8YiKMD6rh8FpSBvVn4bCb3yl5zC9QgXym7PV8vroVKi791DxcQT6e9aSNPDkn_g2OhufBfruRITRrBpzCCVD76nXuIeH5JYxLTRQe68T5FfAtmavV7jX2wvI5ax9Fu3MZ6U8_M78hNr2haMMWytUmpK7BjWC2Nk9JURYRS31iYB7ELkz7-8052LVsG_Ey55ZGoMDVs3d4i4y-ibkYdM8FOy6PMyUiWcN_oSwaLgtgS-7LXGMYwMdNmtcx5AWosQj-1fAGcFNoiGvWphVfuU1cq2KBI7CF2TpNH42OzHMbHEbFkvy5t42AKe9agp4kQZh-wb-1Yx8JZ71Lii_WS0RgQvMar6ghfD6iSkLgi8qCJkpU2W0FmisCklYNxTvMnal7vvtIXtBHXwb7yU_PANNCe9BVKHdT1WHy4EEjXwq7wE68=",
+            "booking_token": "G-7sh2_k4PdVxz8l2ATyCpZSw4jv7L_BCxoiBdQrPLVlBTG2bnrhFax4U6QiTTP-rnmCa9KkvXxCBVBg3xXZ30uda41qt-GrbDtBh9nNlJnNePu7zAwSHgJMdmWtS3sIqZrPkWYLB_z9ZzSBy8EKgcyWDYpHvkibJkK-R92YPhS9nwdM9HpUxYNZPMrERvW6bc4fdUTjqKY0RMOiuezVstvApX-cPLy-JcIs6f-iFYhlq4SoYvdN4ffHSoZIT7vhiQMU6JejAUc9i9n4zWUQDJs5ftyixwpvie8u01sekF1H5s71VQE53tAKcx6V3vnJLFV3MCQy1HCGFPz7rtyn3imMQw8QYdZL3G5vR9959lSjfe74NOKLzCeqkfhrONWNcRn5G98i0fI7-t0HVQy7sgEIwa1ZXT_rOZnXY_X6IdM0sJ8NU3CA-rZDulFwZm9d136NYLEVYI3HaVtA4uzvbfpo1mH_l2ALRR_Loq1D4BMTRmlzUnBaWMPmSB0CfCDvNqAZtQwlA4e-11bzV_k_32w==",
+            "deep_link": "https://www.kiwi.com/deep?affilid=freedempireroundflights&currency=EUR&flightsId=0f6403724c8d4c97a8d68a60_0%7C0f6403724c8d4c97a8d68a60_1%7C0f6403724c8d4c97a8d68a60_2%7C0f6403724c8d4c97a8d68a60_3&from=LHR&lang=en&passengers=1&to=SYD&booking_token=G-7sh2_k4PdVxz8l2ATyCpZSw4jv7L_BCxoiBdQrPLVlBTG2bnrhFax4U6QiTTP-rnmCa9KkvXxCBVBg3xXZ30uda41qt-GrbDtBh9nNlJnNePu7zAwSHgJMdmWtS3sIqZrPkWYLB_z9ZzSBy8EKgcyWDYpHvkibJkK-R92YPhS9nwdM9HpUxYNZPMrERvW6bc4fdUTjqKY0RMOiuezVstvApX-cPLy-JcIs6f-iFYhlq4SoYvdN4ffHSoZIT7vhiQMU6JejAUc9i9n4zWUQDJs5ftyixwpvie8u01sekF1H5s71VQE53tAKcx6V3vnJLFV3MCQy1HCGFPz7rtyn3imMQw8QYdZL3G5vR9959lSjfe74NOKLzCeqkfhrONWNcRn5G98i0fI7-t0HVQy7sgEIwa1ZXT_rOZnXY_X6IdM0sJ8NU3CA-rZDulFwZm9d136NYLEVYI3HaVtA4uzvbfpo1mH_l2ALRR_Loq1D4BMTRmlzUnBaWMPmSB0CfCDvNqAZtQwlA4e-11bzV_k_32w==",
             "facilitated_booking_available": true,
-            "pnr_count": 2,
+            "pnr_count": 1,
             "has_airport_change": false,
             "technical_stops": 0,
             "throw_away_ticketing": false,
             "hidden_city_ticketing": false,
             "virtual_interlining": false,
-            "local_arrival": "2023-10-19T10:00:00.000Z",
-            "utc_arrival": "2023-10-18T23:00:00.000Z",
-            "local_departure": "2023-10-17T21:20:00.000Z",
-            "utc_departure": "2023-10-17T20:20:00.000Z"
+            "local_arrival": "2023-08-30T08:25:00.000Z",
+            "utc_arrival": "2023-08-29T22:25:00.000Z",
+            "local_departure": "2023-08-28T22:10:00.000Z",
+            "utc_departure": "2023-08-28T21:10:00.000Z"
         }
     ],
     "_results": 9

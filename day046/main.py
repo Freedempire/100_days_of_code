@@ -46,10 +46,11 @@ def urljoin(*args):
         return args[0]
     url = ''
     for index, arg in enumerate(args):
-        if index == 0:
-            url += arg if arg.endswith('/') else arg + '/'
-        else:
-            url += arg.lstrip('/') if arg.startswith('/') else arg
+        if not arg.startswith('/') and index != 0:
+            arg = '/' + arg
+        if arg.endswith('/') and index < len(args) - 1:
+            arg = arg.rstrip('/')
+        url += arg
     return url
 
 # by using dotenv.load_dotenv(), all the variables found in the .env file will be
